@@ -7,7 +7,7 @@ about:
   head: f5edd73
   archived: false
   latestVersion: v2.19.0-6e408712-nightly
-  collectedAt: 2026-09-04T19:28:23Z
+  collectedAt: 2026-09-04T21:04:47Z
 timeline:
   created: 2016-12-21
   lastCommit: 2026-09-04
@@ -85,6 +85,94 @@ total:
   openIssue: 8
   commit: 8071
 ---
+path: /home/runner/.x-repo/github.com/goreleaser/goreleaser
+collectedAt: 2026-09-04T21:04:49Z
+loc:
+  Go:
+    code: 81338
+    comments: 2640
+    blanks: 9190
+    files: 399
+  Json:
+    code: 15238
+    comments: 0
+    blanks: 1
+    files: 14
+  Yaml:
+    code: 1115
+    comments: 82
+    blanks: 121
+    files: 33
+  Html:
+    code: 690
+    comments: 19
+    blanks: 15
+    files: 13
+  Svg:
+    code: 546
+    comments: 0
+    blanks: 0
+    files: 4
+  Ruby:
+    code: 389
+    comments: 6
+    blanks: 44
+    files: 8
+  Sh:
+    code: 277
+    comments: 51
+    blanks: 44
+    files: 22
+  Nix:
+    code: 134
+    comments: 2
+    blanks: 10
+    files: 1
+  Dockerfile:
+    code: 36
+    comments: 2
+    blanks: 7
+    files: 4
+  Toml:
+    code: 36
+    comments: 0
+    blanks: 4
+    files: 6
+  Batch:
+    code: 13
+    comments: 0
+    blanks: 3
+    files: 2
+  Bash:
+    code: 6
+    comments: 3
+    blanks: 1
+    files: 3
+  C:
+    code: 2
+    comments: 0
+    blanks: 1
+    files: 1
+  Bitbake:
+    code: 1
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 12587
+    blanks: 4930
+    files: 253
+  Text:
+    code: 0
+    comments: 209
+    blanks: 1
+    files: 47
+total:
+  code: 105721
+  comments: 20141
+  blanks: 15633
+  files: 811
 ---
 date: "2026-09-04T12:53:38Z"
 repo:
