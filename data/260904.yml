@@ -1,0 +1,61 @@
+about:
+  description: Release engineering, simplified
+  license: MIT
+  homepage: https://goreleaser.com
+  head: 6e40871
+  archived: false
+  latestVersion: v2.19.0-6e408712-nightly
+  collectedAt: 2026-09-04T04:21:02Z
+timeline:
+  created: 2016-12-21
+  lastCommit: 2026-09-03
+  lastRelease: 2026-09-04
+popularity:
+  star: 16014
+  watcher: 110
+  fork: 1102
+  release: 601
+  contributor: 485
+  pullRequest: 534
+  issue: 1647
+language:
+  Go: 2550915
+  HTML: 36517
+  Ruby: 9324
+  Shell: 9114
+  Nix: 3525
+  Dockerfile: 1339
+totalLine: 2610734
+recent:
+  last30d:
+    since: 2026-08-05
+    release: 7
+    mergedPR: 87
+    openPR: 5
+    closedIssue: 12
+    openIssue: 1
+    commit: 103
+  last90d:
+    since: 2026-06-06
+    release: 9
+    mergedPR: 156
+    openPR: 6
+    closedIssue: 21
+    openIssue: 2
+    commit: 207
+  last180d:
+    since: 2026-03-08
+    release: 18
+    mergedPR: 285
+    openPR: 6
+    closedIssue: 57
+    openIssue: 2
+    commit: 533
+  last360d:
+    since: 2025-09-09
+    release: 31
+    mergedPR: 517
+    openPR: 6
+    closedIssue: 78
+    openIssue: 2
+    commit: 1059
