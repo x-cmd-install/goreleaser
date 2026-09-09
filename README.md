@@ -7,7 +7,7 @@ Release engineering, simplified
 - **Latest release**: `v2.19.0-e65c78af-nightly` (2026-09-05)
 - **Last commit**: 2026-09-09
 - **License**: MIT
-- **Stars**: 16025 · **Forks**: 1105 · **Open issues**: 1844 · **Contributors**: 485
+- **Stars**: 16025 · **Forks**: 1106 · **Open issues**: 1845 · **Contributors**: 486
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/goreleaser> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T05:37:25Z._
+_Last regenerated: 2026-09-09T19:41:24Z._
