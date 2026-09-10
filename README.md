@@ -12,6 +12,27 @@ Release engineering, simplified
 x install goreleaser
 ```
 
+## Code insight
+
+Total: **108,442** lines of code across **473** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Go | 89,908 | 2,675 | 9,881 | 408 |
+| Json | 15,234 | 0 | 1 | 14 |
+| Yaml | 1,117 | 82 | 121 | 34 |
+| Html | 690 | 19 | 15 | 13 |
+| Svg | 546 | 0 | 0 | 4 |
+
+## OpenSSF Scorecard
+
+Overall score: **8.3 / 10**
+
+Lowest-scoring checks:
+
+- **Code-Review** (1/10) — Found 5/30 approved changesets -- score normalized to 1
+- **Branch-Protection** (3/10) — branch protection is not maximal on development and all release branches
+
 ## Source
 
 - **Upstream**: <https://github.com/goreleaser/goreleaser>
@@ -23,6 +44,25 @@ x install goreleaser
 - **Latest**: `v2.19.0-a95c9a0d-nightly` (2026-09-05)
 - **Last commit**: 2026-09-10
 - **Assets in release**: 55
+
+## Popularity
+
+- **Stars**: 16,027 · **Forks**: 1,107 · **Open issues**: 1,845 · **Contributors**: 486
+
+## Totals (cumulative)
+
+- **Releases**: 601 · **Merged PRs**: 3995 · **Open PRs**: 7 · **Closed issues**: 1835 · **Open issues**: 10 · **Commits**: 8137
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 7 | 143 | 5 | 205 | 3 | 152 |
+| last60d | 2026-07-12 | 8 | 178 | 6 | 213 | 4 | 200 |
+| 90d | 2026-06-12 | 9 | 216 | 6 | 217 | 4 | 264 |
+| last180d | 2026-03-14 | 16 | 338 | 6 | 246 | 4 | 580 |
+| 360d | 2025-09-15 | 31 | 572 | 6 | 274 | 4 | 1094 |
+| last720d | 2024-09-20 | 56 | 1198 | 7 | 379 | 6 | 2220 |
 
 ## Release assets
 
@@ -84,42 +124,17 @@ x install goreleaser
 | [goreleaser_Windows_x86_64.zip](https://github.com/goreleaser/goreleaser/releases/download/v2.18.1/goreleaser_Windows_x86_64.zip) | 26.0 MiB | `native/win/x64` |
 | [goreleaser_Windows_x86_64.zip.sbom.json](https://github.com/goreleaser/goreleaser/releases/download/v2.18.1/goreleaser_Windows_x86_64.zip.sbom.json) | 537.7 KiB | `native/win/x64` |
 
-## Popularity
+## Distribution status
 
-- **Stars**: 16,026 · **Forks**: 1,107 · **Open issues**: 1,845 · **Contributors**: 486
+Reported by **75** distros on [repology.org](https://repology.org/project/goreleaser). **8** are ✅ on the latest upstream release, **18** are ⚠️ on an older version.
 
-## Totals (cumulative)
-
-- **Releases**: 601 · **Merged PRs**: 3995 · **Open PRs**: 7 · **Closed issues**: 1834 · **Open issues**: 11 · **Commits**: 8137
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 7 | 143 | 5 | 204 | 4 | 152 |
-| 90d | 2026-06-12 | 9 | 216 | 6 | 216 | 5 | 264 |
-| 360d | 2025-09-15 | 31 | 572 | 6 | 273 | 5 | 1094 |
-
-## Code size
-
-Total: **108,442** lines of code across **473** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Go | 89,908 | 2,675 | 9,881 | 408 |
-| Json | 15,234 | 0 | 1 | 14 |
-| Yaml | 1,117 | 82 | 121 | 34 |
-| Html | 690 | 19 | 15 | 13 |
-| Svg | 546 | 0 | 0 | 4 |
-
-## OpenSSF Scorecard
-
-Overall score: **8.3 / 10**
-
-Lowest-scoring checks:
-
-- **Code-Review** (1/10) — Found 5/30 approved changesets -- score normalized to 1
-- **Branch-Protection** (3/10) — branch protection is not maximal on development and all release branches
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `2.14.0` | ⚠️ outdated |
+| Homebrew | `2.18.1` | ✅ latest |
+| Nix unstable | `2.17.1` | ⚠️ outdated |
+| Void | `2.16.0` | ⚠️ outdated |
+| openSUSE Tumbleweed | `2.18.0` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -130,4 +145,4 @@ Install metadata for goreleaser lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T17:07:36Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T21:43:37Z._

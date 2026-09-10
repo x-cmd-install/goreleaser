@@ -12,6 +12,27 @@ Release engineering, simplified
 x install goreleaser
 ```
 
+## 代码规模
+
+合计: **108,442** 行代码（覆盖前 5 种语言、共 **473** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Go | 89,908 | 2,675 | 9,881 | 408 |
+| Json | 15,234 | 0 | 1 | 14 |
+| Yaml | 1,117 | 82 | 121 | 34 |
+| Html | 690 | 19 | 15 | 13 |
+| Svg | 546 | 0 | 0 | 4 |
+
+## OpenSSF Scorecard 评分
+
+总评分: **8.3 / 10**
+
+评分最低的几项:
+
+- **Code-Review** (1/10) — Found 5/30 approved changesets -- score normalized to 1
+- **Branch-Protection** (3/10) — branch protection is not maximal on development and all release branches
+
 ## 源代码
 
 - **上游仓库**: <https://github.com/goreleaser/goreleaser>
@@ -23,6 +44,25 @@ x install goreleaser
 - **最新版本**: `v2.19.0-a95c9a0d-nightly` (2026-09-05)
 - **最近提交**: 2026-09-10
 - **Release 含资产**: 55 个
+
+## 流行度
+
+- **Star**: 16,027 · **Fork**: 1,107 · **开放 issue**: 1,845 · **贡献者**: 486
+
+## 累计统计
+
+- **发布数**: 601 · **已合并 PR**: 3995 · **开放 PR**: 7 · **已关闭 issue**: 1835 · **开放 issue**: 10 · **提交数**: 8137
+
+## 最近活动
+
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 7 | 143 | 5 | 205 | 3 | 152 |
+| last60d | 2026-07-12 | 8 | 178 | 6 | 213 | 4 | 200 |
+| 90d | 2026-06-12 | 9 | 216 | 6 | 217 | 4 | 264 |
+| last180d | 2026-03-14 | 16 | 338 | 6 | 246 | 4 | 580 |
+| 360d | 2025-09-15 | 31 | 572 | 6 | 274 | 4 | 1094 |
+| last720d | 2024-09-20 | 56 | 1198 | 7 | 379 | 6 | 2220 |
 
 ## Release 资产
 
@@ -84,42 +124,17 @@ x install goreleaser
 | [goreleaser_Windows_x86_64.zip](https://github.com/goreleaser/goreleaser/releases/download/v2.18.1/goreleaser_Windows_x86_64.zip) | 26.0 MiB | `native/win/x64` |
 | [goreleaser_Windows_x86_64.zip.sbom.json](https://github.com/goreleaser/goreleaser/releases/download/v2.18.1/goreleaser_Windows_x86_64.zip.sbom.json) | 537.7 KiB | `native/win/x64` |
 
-## 流行度
+## 发行版状态
 
-- **Star**: 16,026 · **Fork**: 1,107 · **开放 issue**: 1,845 · **贡献者**: 486
+在 [repology.org](https://repology.org/project/goreleaser) 上共有 **75** 个发行版报告此项目。**8** 个 ✅ 已是最新上游版本，**18** 个 ⚠️ 使用旧版本。
 
-## 累计统计
-
-- **发布数**: 601 · **已合并 PR**: 3995 · **开放 PR**: 7 · **已关闭 issue**: 1834 · **开放 issue**: 11 · **提交数**: 8137
-
-## 最近活动
-
-| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 7 | 143 | 5 | 204 | 4 | 152 |
-| 90d | 2026-06-12 | 9 | 216 | 6 | 216 | 5 | 264 |
-| 360d | 2025-09-15 | 31 | 572 | 6 | 273 | 5 | 1094 |
-
-## 代码规模
-
-合计: **108,442** 行代码（覆盖前 5 种语言、共 **473** 个文件）。
-
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Go | 89,908 | 2,675 | 9,881 | 408 |
-| Json | 15,234 | 0 | 1 | 14 |
-| Yaml | 1,117 | 82 | 121 | 34 |
-| Html | 690 | 19 | 15 | 13 |
-| Svg | 546 | 0 | 0 | 4 |
-
-## OpenSSF Scorecard 评分
-
-总评分: **8.3 / 10**
-
-评分最低的几项:
-
-- **Code-Review** (1/10) — Found 5/30 approved changesets -- score normalized to 1
-- **Branch-Protection** (3/10) — branch protection is not maximal on development and all release branches
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Arch | `2.14.0` | ⚠️ outdated |
+| Homebrew | `2.18.1` | ✅ latest |
+| Nix unstable | `2.17.1` | ⚠️ outdated |
+| Void | `2.16.0` | ⚠️ outdated |
+| openSUSE Tumbleweed | `2.18.0` | ⚠️ outdated |
 
 ## 改进这些数据
 
@@ -130,4 +145,4 @@ goreleaser 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T17:07:36Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T21:43:39Z._
