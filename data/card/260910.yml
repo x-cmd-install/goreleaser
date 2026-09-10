@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.19.0-a95c9a0d-nightly"
   latestRelease: "v2.18.1"
   latestPrerelease: "v2.19.0-a95c9a0d-nightly"
-  collectedAt: 2026-09-10T21:43:24Z
+  collectedAt: 2026-09-10T22:11:58Z
 timeline:
   created: 2016-12-21
   lastCommit: 2026-09-10
@@ -88,7 +88,7 @@ total:
   commit: 8137
 ---
 path: /home/runner/.x-repo/github.com/goreleaser/goreleaser
-collectedAt: 2026-09-10T21:43:29Z
+collectedAt: 2026-09-10T22:12:02Z
 loc:
   Go:
     code: 89908
