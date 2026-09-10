@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 5271,
       "digest": "sha256:f6d14fbd2c8f91744dcb07c9c6445a491a690e752a3263acbe5e4ecd504e4b3e",
-      "download_count": 35007,
+      "download_count": 36556,
       "created_at": "2026-09-05T22:23:27Z",
       "updated_at": "2026-09-05T22:23:28Z",
       "browser_download_url": "https://github.com/goreleaser/goreleaser/releases/download/v2.18.1/checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 10287,
       "digest": "sha256:544c2e55636e91c924029965759086156c558f88463319d45146558d32b51476",
-      "download_count": 2484,
+      "download_count": 2610,
       "created_at": "2026-09-05T22:23:28Z",
       "updated_at": "2026-09-05T22:23:28Z",
       "browser_download_url": "https://github.com/goreleaser/goreleaser/releases/download/v2.18.1/checksums.txt.sigstore.json"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 24830217,
       "digest": "sha256:c6df872b49042e9a846a7c46a262430f006e3f7aabdb875861b4a812a42a5016",
-      "download_count": 64,
+      "download_count": 65,
       "created_at": "2026-09-05T22:23:14Z",
       "updated_at": "2026-09-05T22:23:16Z",
       "browser_download_url": "https://github.com/goreleaser/goreleaser/releases/download/v2.18.1/goreleaser_2.18.1_aarch64.apk"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 25026555,
       "digest": "sha256:17f2bc0798fed1bc5945f2176e81b15c882b57ff1cbe86ea6336e008223ccf79",
-      "download_count": 39,
+      "download_count": 40,
       "created_at": "2026-09-05T22:23:13Z",
       "updated_at": "2026-09-05T22:23:14Z",
       "browser_download_url": "https://github.com/goreleaser/goreleaser/releases/download/v2.18.1/goreleaser_2.18.1_ppc64.apk"
@@ -1111,7 +1111,7 @@
       "state": "uploaded",
       "size": 53314465,
       "digest": "sha256:d0af1f86c439a59ab06c54c505f66fea1a166093dc91a7c0c8aebe3da1cc13b7",
-      "download_count": 2478,
+      "download_count": 2576,
       "created_at": "2026-09-05T22:23:10Z",
       "updated_at": "2026-09-05T22:23:13Z",
       "browser_download_url": "https://github.com/goreleaser/goreleaser/releases/download/v2.18.1/goreleaser_Darwin_all.tar.gz"
@@ -1183,7 +1183,7 @@
       "state": "uploaded",
       "size": 25300148,
       "digest": "sha256:8e912c5cc78896d791b7530e672d4a4ef9c00ebff7375de410fae1b459825ea3",
-      "download_count": 776,
+      "download_count": 798,
       "created_at": "2026-09-05T22:23:12Z",
       "updated_at": "2026-09-05T22:23:13Z",
       "browser_download_url": "https://github.com/goreleaser/goreleaser/releases/download/v2.18.1/goreleaser_Darwin_arm64.tar.gz"
@@ -1255,7 +1255,7 @@
       "state": "uploaded",
       "size": 28031804,
       "digest": "sha256:623e9ba517ace49c3d6b57bcfe8f5fe33ca45313ee93261c1854464cca94d861",
-      "download_count": 44,
+      "download_count": 45,
       "created_at": "2026-09-05T22:23:10Z",
       "updated_at": "2026-09-05T22:23:11Z",
       "browser_download_url": "https://github.com/goreleaser/goreleaser/releases/download/v2.18.1/goreleaser_Darwin_x86_64.tar.gz"
@@ -1327,7 +1327,7 @@
       "state": "uploaded",
       "size": 23883612,
       "digest": "sha256:93dba7614308e167158bd26978e8275971fd4b9147e7f3c687a64f5939d42d27",
-      "download_count": 3191,
+      "download_count": 3459,
       "created_at": "2026-09-05T22:23:10Z",
       "updated_at": "2026-09-05T22:23:11Z",
       "browser_download_url": "https://github.com/goreleaser/goreleaser/releases/download/v2.18.1/goreleaser_Linux_arm64.tar.gz"
@@ -1759,7 +1759,7 @@
       "state": "uploaded",
       "size": 26551191,
       "digest": "sha256:0c6122af0ad8fd65638889bf7d3757148b2f80eeff9f079682f0655df66ec8e8",
-      "download_count": 48452,
+      "download_count": 50963,
       "created_at": "2026-09-05T22:23:08Z",
       "updated_at": "2026-09-05T22:23:09Z",
       "browser_download_url": "https://github.com/goreleaser/goreleaser/releases/download/v2.18.1/goreleaser_Linux_x86_64.tar.gz"
@@ -1903,7 +1903,7 @@
       "state": "uploaded",
       "size": 25985135,
       "digest": "sha256:bf9c7a9e0dd53c4b211859b0c7fd9783efbecb1cd6f5de8b3bf3bd022f4a3c39",
-      "download_count": 105,
+      "download_count": 107,
       "created_at": "2026-09-05T22:23:08Z",
       "updated_at": "2026-09-05T22:23:10Z",
       "browser_download_url": "https://github.com/goreleaser/goreleaser/releases/download/v2.18.1/goreleaser_Windows_i386.zip"
@@ -1975,7 +1975,7 @@
       "state": "uploaded",
       "size": 27240249,
       "digest": "sha256:dbb3112f619c4827311b726b3c98047bce69af1ecee99984d55d450c04c471fc",
-      "download_count": 1167,
+      "download_count": 1213,
       "created_at": "2026-09-05T22:23:13Z",
       "updated_at": "2026-09-05T22:23:15Z",
       "browser_download_url": "https://github.com/goreleaser/goreleaser/releases/download/v2.18.1/goreleaser_Windows_x86_64.zip"
