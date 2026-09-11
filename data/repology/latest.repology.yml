@@ -1,19 +1,29 @@
-- repo: wakemeops
-  subrepo: devops
-  binname: goreleaser
+- repo: nix_stable_25_05
+  srcname: goreleaser
   visiblename: goreleaser
-  version: 2.14.2
-  origversion: 2.14.2-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: chocolatey
-  binname: goreleaser
-  visiblename: GoReleaser
-  version: 2.18.1
+  version: 2.9.0
   origversion: null
-  status: newest
-  summary: GoReleaser – Deliver Go binaries as fast and easily as possible
+  status: outdated
+  summary: Deliver Go binaries as fast and easily as possible
+  maintainers:
+    - rob@sarcasticadmin.com
+    - techknowlogick@gitea.com
+    - carlos@becker.software
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: goreleaser
+  visiblename: goreleaser
+  version: 2.12.7
+  origversion: null
+  status: outdated
+  summary: Deliver Go binaries as fast and easily as possible
+  maintainers:
+    - rob@sarcasticadmin.com
+    - techknowlogick@gitea.com
+    - carlos@becker.software
+  licenses:
+    - MIT
 - repo: alt_p11
   srcname: goreleaser
   binnames:
@@ -80,17 +90,13 @@
     - caarlos0@aur
   licenses:
     - MIT
-- repo: parabola
-  subrepo: extra
-  srcname: goreleaser
+- repo: chocolatey
   binname: goreleaser
-  visiblename: goreleaser
-  version: 2.14.0
-  origversion: 2.14.0-2
-  status: outdated
-  summary: Deliver Go binaries as fast and easily as possible
-  licenses:
-    - MIT
+  visiblename: GoReleaser
+  version: 2.18.1
+  origversion: null
+  status: newest
+  summary: GoReleaser – Deliver Go binaries as fast and easily as possible
 - repo: freebsd
   srcname: devel/goreleaser
   binname: goreleaser
@@ -192,32 +198,6 @@
     - carlos@becker.software
   licenses:
     - MIT
-- repo: nix_stable_25_05
-  srcname: goreleaser
-  visiblename: goreleaser
-  version: 2.9.0
-  origversion: null
-  status: outdated
-  summary: Deliver Go binaries as fast and easily as possible
-  maintainers:
-    - rob@sarcasticadmin.com
-    - techknowlogick@gitea.com
-    - carlos@becker.software
-  licenses:
-    - MIT
-- repo: nix_stable_25_11
-  srcname: goreleaser
-  visiblename: goreleaser
-  version: 2.12.7
-  origversion: null
-  status: outdated
-  summary: Deliver Go binaries as fast and easily as possible
-  maintainers:
-    - rob@sarcasticadmin.com
-    - techknowlogick@gitea.com
-    - carlos@becker.software
-  licenses:
-    - MIT
 - repo: nix_stable_26_05
   srcname: goreleaser
   visiblename: goreleaser
@@ -272,6 +252,17 @@
     - MIT
   categories:
     - Unspecified
+- repo: parabola
+  subrepo: extra
+  srcname: goreleaser
+  binname: goreleaser
+  visiblename: goreleaser
+  version: 2.14.0
+  origversion: 2.14.0-2
+  status: outdated
+  summary: Deliver Go binaries as fast and easily as possible
+  licenses:
+    - MIT
 - repo: scoop
   subrepo: main
   binname: goreleaser
@@ -364,6 +355,15 @@
   visiblename: goreleaser
   version: 2.14.3
   origversion: 2.14.3-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: goreleaser
+  visiblename: goreleaser
+  version: 2.14.2
+  origversion: 2.14.2-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
