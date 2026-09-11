@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 16,027 · **Forks**: 1,107 · **Open issues**: 1,845 · **Contributors**: 486
+- **Stars**: 16,028 · **Forks**: 1,107 · **Open issues**: 1,845 · **Contributors**: 486
 
 ## Totals (cumulative)
 
-- **Releases**: 602 · **Merged PRs**: 3995 · **Open PRs**: 7 · **Closed issues**: 1835 · **Open issues**: 10 · **Commits**: 8137
+- **Releases**: 601 · **Merged PRs**: 3995 · **Open PRs**: 7 · **Closed issues**: 1835 · **Open issues**: 10 · **Commits**: 8137
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 8 | 141 | 5 | 205 | 3 | 152 |
-| last60d | 2026-07-13 | 9 | 178 | 6 | 213 | 4 | 200 |
-| 90d | 2026-06-13 | 10 | 216 | 6 | 217 | 4 | 264 |
-| last180d | 2026-03-15 | 17 | 338 | 6 | 246 | 4 | 580 |
-| 360d | 2025-09-16 | 32 | 565 | 6 | 274 | 4 | 1094 |
-| last720d | 2024-09-21 | 57 | 1198 | 7 | 378 | 6 | 2215 |
+| 30d | 2026-08-12 | 7 | 141 | 5 | 205 | 3 | 152 |
+| last60d | 2026-07-13 | 8 | 178 | 6 | 213 | 4 | 200 |
+| 90d | 2026-06-13 | 9 | 216 | 6 | 217 | 4 | 264 |
+| last180d | 2026-03-15 | 16 | 338 | 6 | 246 | 4 | 580 |
+| 360d | 2025-09-16 | 31 | 565 | 6 | 274 | 4 | 1094 |
+| last720d | 2024-09-21 | 56 | 1198 | 7 | 378 | 6 | 2215 |
 
 ## Release assets
 
@@ -145,4 +145,4 @@ Install metadata for goreleaser lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T05:01:38Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T19:54:52Z._
