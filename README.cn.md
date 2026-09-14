@@ -47,22 +47,22 @@ x install goreleaser
 
 ## 流行度
 
-- **Star**: 16,030 · **Fork**: 1,107 · **开放 issue**: 1,845 · **贡献者**: 486
+- **Star**: 16,038 · **Fork**: 1,108 · **开放 issue**: 1,845 · **贡献者**: 486
 
 ## 累计统计
 
-- **发布数**: 601 · **已合并 PR**: 3995 · **开放 PR**: 10 · **已关闭 issue**: 1835 · **开放 issue**: 10 · **提交数**: 8137
+- **发布数**: 601 · **已合并 PR**: 3995 · **开放 PR**: 11 · **已关闭 issue**: 1835 · **开放 issue**: 10 · **提交数**: 8137
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 7 | 139 | 8 | 204 | 3 | 152 |
-| last60d | 2026-07-15 | 8 | 175 | 9 | 212 | 4 | 200 |
-| 90d | 2026-06-15 | 9 | 216 | 9 | 217 | 4 | 264 |
-| last180d | 2026-03-17 | 16 | 336 | 9 | 244 | 4 | 580 |
-| 360d | 2025-09-18 | 30 | 559 | 9 | 274 | 4 | 1094 |
-| last720d | 2024-09-23 | 56 | 1195 | 10 | 378 | 6 | 2215 |
+| 30d | 2026-08-15 | 7 | 132 | 9 | 204 | 3 | 116 |
+| last60d | 2026-07-16 | 8 | 175 | 10 | 211 | 4 | 199 |
+| 90d | 2026-06-16 | 9 | 216 | 10 | 217 | 4 | 251 |
+| last180d | 2026-03-18 | 16 | 335 | 10 | 244 | 4 | 545 |
+| 360d | 2025-09-19 | 29 | 555 | 10 | 274 | 4 | 1046 |
+| last720d | 2024-09-24 | 56 | 1193 | 11 | 376 | 6 | 2212 |
 
 ## Release 资产
 
@@ -124,18 +124,6 @@ x install goreleaser
 | [goreleaser_Windows_x86_64.zip](https://github.com/goreleaser/goreleaser/releases/download/v2.18.1/goreleaser_Windows_x86_64.zip) | 26.0 MiB | `native/win/x64` |
 | [goreleaser_Windows_x86_64.zip.sbom.json](https://github.com/goreleaser/goreleaser/releases/download/v2.18.1/goreleaser_Windows_x86_64.zip.sbom.json) | 537.7 KiB | `native/win/x64` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/goreleaser) 上共有 **75** 个发行版报告此项目。**8** 个 ✅ 已是最新上游版本，**18** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Arch | `2.14.0` | ⚠️ outdated |
-| Homebrew | `2.18.1` | ✅ latest |
-| Nix unstable | `2.17.1` | ⚠️ outdated |
-| Void | `2.16.0` | ⚠️ outdated |
-| openSUSE Tumbleweed | `2.18.0` | ⚠️ outdated |
-
 ## 改进这些数据
 
 goreleaser 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `goreleaser` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -145,4 +133,4 @@ goreleaser 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260913.yml` · 2026-09-13T05:17:10Z._
+_数据快照: `data/card/260914.yml` · 2026-09-14T05:32:49Z._

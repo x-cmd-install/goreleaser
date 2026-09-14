@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 16,030 · **Forks**: 1,107 · **Open issues**: 1,845 · **Contributors**: 486
+- **Stars**: 16,038 · **Forks**: 1,108 · **Open issues**: 1,845 · **Contributors**: 486
 
 ## Totals (cumulative)
 
-- **Releases**: 601 · **Merged PRs**: 3995 · **Open PRs**: 10 · **Closed issues**: 1835 · **Open issues**: 10 · **Commits**: 8137
+- **Releases**: 601 · **Merged PRs**: 3995 · **Open PRs**: 11 · **Closed issues**: 1835 · **Open issues**: 10 · **Commits**: 8137
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 7 | 139 | 8 | 204 | 3 | 152 |
-| last60d | 2026-07-15 | 8 | 175 | 9 | 212 | 4 | 200 |
-| 90d | 2026-06-15 | 9 | 216 | 9 | 217 | 4 | 264 |
-| last180d | 2026-03-17 | 16 | 336 | 9 | 244 | 4 | 580 |
-| 360d | 2025-09-18 | 30 | 559 | 9 | 274 | 4 | 1094 |
-| last720d | 2024-09-23 | 56 | 1195 | 10 | 378 | 6 | 2215 |
+| 30d | 2026-08-15 | 7 | 132 | 9 | 204 | 3 | 116 |
+| last60d | 2026-07-16 | 8 | 175 | 10 | 211 | 4 | 199 |
+| 90d | 2026-06-16 | 9 | 216 | 10 | 217 | 4 | 251 |
+| last180d | 2026-03-18 | 16 | 335 | 10 | 244 | 4 | 545 |
+| 360d | 2025-09-19 | 29 | 555 | 10 | 274 | 4 | 1046 |
+| last720d | 2024-09-24 | 56 | 1193 | 11 | 376 | 6 | 2212 |
 
 ## Release assets
 
@@ -124,18 +124,6 @@ Lowest-scoring checks:
 | [goreleaser_Windows_x86_64.zip](https://github.com/goreleaser/goreleaser/releases/download/v2.18.1/goreleaser_Windows_x86_64.zip) | 26.0 MiB | `native/win/x64` |
 | [goreleaser_Windows_x86_64.zip.sbom.json](https://github.com/goreleaser/goreleaser/releases/download/v2.18.1/goreleaser_Windows_x86_64.zip.sbom.json) | 537.7 KiB | `native/win/x64` |
 
-## Distribution status
-
-Reported by **75** distros on [repology.org](https://repology.org/project/goreleaser). **8** are ✅ on the latest upstream release, **18** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Arch | `2.14.0` | ⚠️ outdated |
-| Homebrew | `2.18.1` | ✅ latest |
-| Nix unstable | `2.17.1` | ⚠️ outdated |
-| Void | `2.16.0` | ⚠️ outdated |
-| openSUSE Tumbleweed | `2.18.0` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for goreleaser lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `goreleaser` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -145,4 +133,4 @@ Install metadata for goreleaser lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:17:10Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T05:32:48Z._
