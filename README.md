@@ -41,28 +41,28 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v2.18.2` (2026-09-17)
+- **Latest**: `v2.19.0-048a5869-nightly` (2026-09-17)
 - **Last commit**: 2026-09-17
 - **Assets in release**: 55
 
 ## Popularity
 
-- **Stars**: 16,052 · **Forks**: 1,109 · **Open issues**: 1,845 · **Contributors**: 487
+- **Stars**: 16,055 · **Forks**: 1,110 · **Open issues**: 1,846 · **Contributors**: 487
 
 ## Totals (cumulative)
 
-- **Releases**: 603 · **Merged PRs**: 4011 · **Open PRs**: 7 · **Closed issues**: 1836 · **Open issues**: 9 · **Commits**: 8154
+- **Releases**: 603 · **Merged PRs**: 4011 · **Open PRs**: 8 · **Closed issues**: 1837 · **Open issues**: 9 · **Commits**: 8154
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-18 | 9 | 125 | 5 | 204 | 2 | 133 |
-| last60d | 2026-07-19 | 10 | 188 | 6 | 212 | 3 | 216 |
-| 90d | 2026-06-19 | 11 | 227 | 6 | 218 | 3 | 268 |
-| last180d | 2026-03-21 | 18 | 343 | 6 | 244 | 3 | 562 |
-| 360d | 2025-09-22 | 31 | 568 | 6 | 275 | 3 | 1063 |
-| last720d | 2024-09-27 | 58 | 1204 | 7 | 377 | 5 | 2225 |
+| 30d | 2026-08-19 | 9 | 125 | 6 | 205 | 2 | 133 |
+| last60d | 2026-07-20 | 10 | 188 | 7 | 213 | 3 | 216 |
+| 90d | 2026-06-20 | 11 | 227 | 7 | 219 | 3 | 268 |
+| last180d | 2026-03-22 | 18 | 343 | 7 | 245 | 3 | 562 |
+| 360d | 2025-09-23 | 31 | 564 | 7 | 276 | 3 | 1063 |
+| last720d | 2024-09-28 | 58 | 1204 | 8 | 378 | 5 | 2219 |
 
 ## Release assets
 
@@ -133,4 +133,4 @@ Install metadata for goreleaser lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260917.yml` · 2026-09-17T05:36:11Z._
+_Snapshot: `data/card/260918.yml` · 2026-09-18T05:14:52Z._
