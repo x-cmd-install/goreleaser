@@ -4,7 +4,7 @@
 
 Release engineering, simplified
 
-![goreleaser](https://repo.x-cmd.io/goreleaser.svg?lang=zh)
+[![x-cmd/install — goreleaser Code Quality Monitoring Repo Card](https://repo.x-cmd.io/goreleaser.svg?lang=zh)](https://x-cmd.com/install/goreleaser)
 
 ## 安装
 
@@ -30,7 +30,7 @@ x install goreleaser
 
 评分最低的几项:
 
-- **Code-Review** (2/10) — Found 7/26 approved changesets -- score normalized to 2
+- **Code-Review** (3/10) — Found 7/22 approved changesets -- score normalized to 3
 - **Branch-Protection** (3/10) — branch protection is not maximal on development and all release branches
 
 ## 源代码
@@ -41,28 +41,28 @@ x install goreleaser
 
 ## 发布
 
-- **最新版本**: `v2.19.0-048a5869-nightly` (2026-09-17)
-- **最近提交**: 2026-09-17
+- **最新版本**: `v2.19.0-1750aefb-nightly` (2026-09-17)
+- **最近提交**: 2026-09-19
 - **Release 含资产**: 55 个
 
 ## 流行度
 
-- **Star**: 16,055 · **Fork**: 1,110 · **开放 issue**: 1,846 · **贡献者**: 487
+- **Star**: 16,058 · **Fork**: 1,111 · **开放 issue**: 1,846 · **贡献者**: 487
 
 ## 累计统计
 
-- **发布数**: 603 · **已合并 PR**: 4011 · **开放 PR**: 8 · **已关闭 issue**: 1837 · **开放 issue**: 9 · **提交数**: 8154
+- **发布数**: 603 · **已合并 PR**: 4017 · **开放 PR**: 9 · **已关闭 issue**: 1837 · **开放 issue**: 9 · **提交数**: 8160
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 9 | 125 | 6 | 205 | 2 | 133 |
-| last60d | 2026-07-20 | 10 | 188 | 7 | 213 | 3 | 216 |
-| 90d | 2026-06-20 | 11 | 227 | 7 | 219 | 3 | 268 |
-| last180d | 2026-03-22 | 18 | 343 | 7 | 245 | 3 | 562 |
-| 360d | 2025-09-23 | 31 | 564 | 7 | 276 | 3 | 1063 |
-| last720d | 2024-09-28 | 58 | 1204 | 8 | 378 | 5 | 2219 |
+| 30d | 2026-08-21 | 9 | 126 | 7 | 204 | 2 | 139 |
+| last60d | 2026-07-22 | 10 | 194 | 7 | 213 | 3 | 222 |
+| 90d | 2026-06-22 | 11 | 232 | 8 | 219 | 3 | 274 |
+| last180d | 2026-03-24 | 18 | 346 | 8 | 242 | 3 | 568 |
+| 360d | 2025-09-25 | 31 | 567 | 8 | 276 | 3 | 1069 |
+| last720d | 2024-09-30 | 58 | 1209 | 9 | 378 | 5 | 2225 |
 
 ## Release 资产
 
@@ -133,4 +133,4 @@ goreleaser 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T05:14:53Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T05:19:38Z._
