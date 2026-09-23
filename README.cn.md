@@ -4,7 +4,7 @@
 
 Release engineering, simplified
 
-[![x-cmd/install — goreleaser Code Quality Monitoring Repo Card](https://repo.x-cmd.io/goreleaser.svg?lang=zh)](https://x-cmd.com/install/goreleaser)
+[![x-cmd/install — goreleaser Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/goreleaser.svg?lang=zh)](https://x-cmd.com/install/goreleaser)
 
 ## 安装
 
@@ -47,7 +47,7 @@ x install goreleaser
 
 ## 流行度
 
-- **Star**: 16,062 · **Fork**: 1,111 · **开放 issue**: 1,846 · **贡献者**: 487
+- **Star**: 16,063 · **Fork**: 1,111 · **开放 issue**: 1,846 · **贡献者**: 487
 
 ## 累计统计
 
@@ -57,12 +57,12 @@ x install goreleaser
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 8 | 122 | 6 | 204 | 2 | 126 |
-| last60d | 2026-07-24 | 9 | 191 | 6 | 211 | 3 | 206 |
-| 90d | 2026-06-24 | 10 | 233 | 7 | 219 | 3 | 264 |
-| last180d | 2026-03-26 | 17 | 342 | 7 | 241 | 3 | 527 |
-| 360d | 2025-09-27 | 29 | 568 | 7 | 276 | 3 | 1042 |
-| last720d | 2024-10-02 | 57 | 1209 | 8 | 378 | 5 | 2226 |
+| 30d | 2026-08-24 | 8 | 120 | 6 | 204 | 2 | 126 |
+| last60d | 2026-07-25 | 9 | 188 | 6 | 211 | 3 | 206 |
+| 90d | 2026-06-25 | 10 | 232 | 7 | 219 | 3 | 264 |
+| last180d | 2026-03-27 | 17 | 340 | 7 | 241 | 3 | 527 |
+| 360d | 2025-09-28 | 29 | 568 | 7 | 276 | 3 | 1042 |
+| last720d | 2024-10-03 | 57 | 1206 | 8 | 377 | 5 | 2226 |
 
 ## Release 资产
 
@@ -133,4 +133,4 @@ goreleaser 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:20:50Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T05:24:45Z._

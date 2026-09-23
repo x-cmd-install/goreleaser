@@ -4,7 +4,7 @@
 
 Release engineering, simplified
 
-[![x-cmd/install — goreleaser Code Quality Monitoring Repo Card](https://repo.x-cmd.io/goreleaser.svg)](https://x-cmd.com/install/goreleaser)
+[![x-cmd/install — goreleaser Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/goreleaser.svg)](https://x-cmd.com/install/goreleaser)
 
 ## Install
 
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 16,062 · **Forks**: 1,111 · **Open issues**: 1,846 · **Contributors**: 487
+- **Stars**: 16,063 · **Forks**: 1,111 · **Open issues**: 1,846 · **Contributors**: 487
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 8 | 122 | 6 | 204 | 2 | 126 |
-| last60d | 2026-07-24 | 9 | 191 | 6 | 211 | 3 | 206 |
-| 90d | 2026-06-24 | 10 | 233 | 7 | 219 | 3 | 264 |
-| last180d | 2026-03-26 | 17 | 342 | 7 | 241 | 3 | 527 |
-| 360d | 2025-09-27 | 29 | 568 | 7 | 276 | 3 | 1042 |
-| last720d | 2024-10-02 | 57 | 1209 | 8 | 378 | 5 | 2226 |
+| 30d | 2026-08-24 | 8 | 120 | 6 | 204 | 2 | 126 |
+| last60d | 2026-07-25 | 9 | 188 | 6 | 211 | 3 | 206 |
+| 90d | 2026-06-25 | 10 | 232 | 7 | 219 | 3 | 264 |
+| last180d | 2026-03-27 | 17 | 340 | 7 | 241 | 3 | 527 |
+| 360d | 2025-09-28 | 29 | 568 | 7 | 276 | 3 | 1042 |
+| last720d | 2024-10-03 | 57 | 1206 | 8 | 377 | 5 | 2226 |
 
 ## Release assets
 
@@ -133,4 +133,4 @@ Install metadata for goreleaser lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:20:49Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:24:45Z._
