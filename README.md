@@ -30,7 +30,7 @@ Overall score: **8.5 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (3/10) — Found 7/19 approved changesets -- score normalized to 3
+- **Code-Review** (3/10) — Found 7/18 approved changesets -- score normalized to 3
 - **Branch-Protection** (3/10) — branch protection is not maximal on development and all release branches
 
 ## Source
@@ -41,8 +41,8 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v2.19.0-9bf2f568-nightly` (2026-09-17)
-- **Last commit**: 2026-10-02
+- **Latest**: `v2.19.0-61704ffc-nightly` (2026-09-17)
+- **Last commit**: 2026-10-03
 - **Assets in release**: 55
 
 ## Popularity
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 603 · **Merged PRs**: 4024 · **Open PRs**: 13 · **Closed issues**: 1837 · **Open issues**: 10 · **Commits**: 8166
+- **Releases**: 603 · **Merged PRs**: 4026 · **Open PRs**: 11 · **Closed issues**: 1837 · **Open issues**: 10 · **Commits**: 8168
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-03 | 8 | 90 | 10 | 197 | 3 | 96 |
-| last60d | 2026-08-04 | 9 | 179 | 11 | 210 | 3 | 199 |
-| 90d | 2026-07-05 | 10 | 217 | 12 | 215 | 4 | 243 |
-| last180d | 2026-04-06 | 15 | 322 | 12 | 229 | 4 | 510 |
-| 360d | 2025-10-08 | 28 | 548 | 12 | 274 | 4 | 1032 |
-| last720d | 2024-10-13 | 58 | 1189 | 13 | 372 | 6 | 2204 |
+| 30d | 2026-09-04 | 8 | 91 | 8 | 196 | 3 | 98 |
+| last60d | 2026-08-05 | 9 | 181 | 9 | 210 | 3 | 201 |
+| 90d | 2026-07-06 | 10 | 217 | 10 | 215 | 4 | 245 |
+| last180d | 2026-04-07 | 15 | 323 | 10 | 229 | 4 | 512 |
+| 360d | 2025-10-09 | 28 | 547 | 10 | 274 | 4 | 1034 |
+| last720d | 2024-10-14 | 58 | 1188 | 11 | 372 | 6 | 2206 |
 
 ## Release assets
 
@@ -133,4 +133,4 @@ Install metadata for goreleaser lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261003.yml` · 2026-10-03T05:36:38Z._
+_Snapshot: `data/card/261004.yml` · 2026-10-04T06:14:12Z._

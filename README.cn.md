@@ -30,7 +30,7 @@ x install goreleaser
 
 评分最低的几项:
 
-- **Code-Review** (3/10) — Found 7/19 approved changesets -- score normalized to 3
+- **Code-Review** (3/10) — Found 7/18 approved changesets -- score normalized to 3
 - **Branch-Protection** (3/10) — branch protection is not maximal on development and all release branches
 
 ## 源代码
@@ -41,8 +41,8 @@ x install goreleaser
 
 ## 发布
 
-- **最新版本**: `v2.19.0-9bf2f568-nightly` (2026-09-17)
-- **最近提交**: 2026-10-02
+- **最新版本**: `v2.19.0-61704ffc-nightly` (2026-09-17)
+- **最近提交**: 2026-10-03
 - **Release 含资产**: 55 个
 
 ## 流行度
@@ -51,18 +51,18 @@ x install goreleaser
 
 ## 累计统计
 
-- **发布数**: 603 · **已合并 PR**: 4024 · **开放 PR**: 13 · **已关闭 issue**: 1837 · **开放 issue**: 10 · **提交数**: 8166
+- **发布数**: 603 · **已合并 PR**: 4026 · **开放 PR**: 11 · **已关闭 issue**: 1837 · **开放 issue**: 10 · **提交数**: 8168
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-03 | 8 | 90 | 10 | 197 | 3 | 96 |
-| last60d | 2026-08-04 | 9 | 179 | 11 | 210 | 3 | 199 |
-| 90d | 2026-07-05 | 10 | 217 | 12 | 215 | 4 | 243 |
-| last180d | 2026-04-06 | 15 | 322 | 12 | 229 | 4 | 510 |
-| 360d | 2025-10-08 | 28 | 548 | 12 | 274 | 4 | 1032 |
-| last720d | 2024-10-13 | 58 | 1189 | 13 | 372 | 6 | 2204 |
+| 30d | 2026-09-04 | 8 | 91 | 8 | 196 | 3 | 98 |
+| last60d | 2026-08-05 | 9 | 181 | 9 | 210 | 3 | 201 |
+| 90d | 2026-07-06 | 10 | 217 | 10 | 215 | 4 | 245 |
+| last180d | 2026-04-07 | 15 | 323 | 10 | 229 | 4 | 512 |
+| 360d | 2025-10-09 | 28 | 547 | 10 | 274 | 4 | 1034 |
+| last720d | 2024-10-14 | 58 | 1188 | 11 | 372 | 6 | 2206 |
 
 ## Release 资产
 
@@ -133,4 +133,4 @@ goreleaser 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261003.yml` · 2026-10-03T05:36:39Z._
+_数据快照: `data/card/261004.yml` · 2026-10-04T06:14:13Z._
