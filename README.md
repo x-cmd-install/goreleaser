@@ -41,28 +41,28 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v2.18.3` (2026-10-09)
+- **Latest**: `v2.19.0-ccaac66e-nightly` (2026-10-09)
 - **Last commit**: 2026-10-09
 - **Assets in release**: 55
 
 ## Popularity
 
-- **Stars**: 16,094 · **Forks**: 1,119 · **Open issues**: 1,849 · **Contributors**: 492
+- **Stars**: 16,096 · **Forks**: 1,121 · **Open issues**: 1,850 · **Contributors**: 492
 
 ## Totals (cumulative)
 
-- **Releases**: 604 · **Merged PRs**: 4035 · **Open PRs**: 11 · **Closed issues**: 1840 · **Open issues**: 9 · **Commits**: 8177
+- **Releases**: 604 · **Merged PRs**: 4035 · **Open PRs**: 12 · **Closed issues**: 1840 · **Open issues**: 10 · **Commits**: 8177
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-09 | 8 | 40 | 4 | 4 | 0 | 0 |
-| last60d | 2026-08-10 | 10 | 182 | 9 | 210 | 2 | 0 |
-| 90d | 2026-07-11 | 11 | 219 | 10 | 218 | 3 | 0 |
-| last180d | 2026-04-12 | 16 | 320 | 10 | 232 | 3 | 0 |
-| 360d | 2025-10-14 | 29 | 544 | 10 | 277 | 3 | 0 |
-| last720d | 2024-10-19 | 59 | 1191 | 11 | 370 | 5 | 2196 |
+| 30d | 2026-09-10 | 8 | 39 | 5 | 4 | 1 | 40 |
+| last60d | 2026-08-11 | 10 | 182 | 10 | 210 | 3 | 194 |
+| 90d | 2026-07-12 | 11 | 217 | 11 | 218 | 4 | 243 |
+| last180d | 2026-04-13 | 16 | 320 | 11 | 232 | 4 | 467 |
+| 360d | 2025-10-15 | 29 | 543 | 11 | 277 | 4 | 1027 |
+| last720d | 2024-10-20 | 59 | 1191 | 12 | 370 | 6 | 2196 |
 
 ## Release assets
 
@@ -133,4 +133,4 @@ Install metadata for goreleaser lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261009.yml` · 2026-10-09T06:24:55Z._
+_Snapshot: `data/card/261010.yml` · 2026-10-10T06:07:37Z._
