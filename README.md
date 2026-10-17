@@ -14,12 +14,12 @@ x install goreleaser
 
 ## Code insight
 
-Total: **109,521** lines of code across **475** files in the top 5 languages.
+Total: **109,532** lines of code across **475** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 90,953 | 2,790 | 9,964 | 410 |
-| Json | 15,284 | 0 | 1 | 14 |
+| Go | 90,956 | 2,790 | 9,964 | 410 |
+| Json | 15,292 | 0 | 1 | 14 |
 | Yaml | 1,117 | 82 | 121 | 34 |
 | Html | 690 | 19 | 15 | 13 |
 | Svg | 546 | 0 | 0 | 4 |
@@ -40,28 +40,28 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v2.19.0-1015c53f-nightly` (2026-10-09)
-- **Last commit**: 2026-10-13
+- **Latest**: `v2.19.0-4a71e1e8-nightly` (2026-10-09)
+- **Last commit**: 2026-10-16
 - **Assets in release**: 55
 
 ## Popularity
 
-- **Stars**: 16,101 · **Forks**: 1,125 · **Open issues**: 1,852 · **Contributors**: 495
+- **Stars**: 16,102 · **Forks**: 1,126 · **Open issues**: 1,852 · **Contributors**: 495
 
 ## Totals (cumulative)
 
-- **Releases**: 603 · **Merged PRs**: 4048 · **Open PRs**: 10 · **Closed issues**: 1843 · **Open issues**: 9 · **Commits**: 8190
+- **Releases**: 604 · **Merged PRs**: 4049 · **Open PRs**: 10 · **Closed issues**: 1843 · **Open issues**: 9 · **Commits**: 8191
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-16 | 7 | 34 | 6 | 6 | 1 | 36 |
-| last60d | 2026-08-17 | 9 | 164 | 8 | 212 | 2 | 169 |
-| 90d | 2026-07-18 | 10 | 224 | 9 | 219 | 3 | 252 |
-| last180d | 2026-04-19 | 14 | 317 | 9 | 233 | 3 | 448 |
-| 360d | 2025-10-21 | 28 | 546 | 9 | 278 | 3 | 1019 |
-| last720d | 2024-10-26 | 58 | 1192 | 10 | 372 | 5 | 2198 |
+| 30d | 2026-09-17 | 8 | 34 | 6 | 6 | 1 | 37 |
+| last60d | 2026-08-18 | 10 | 162 | 8 | 211 | 2 | 170 |
+| 90d | 2026-07-19 | 11 | 225 | 9 | 219 | 3 | 253 |
+| last180d | 2026-04-20 | 15 | 316 | 9 | 233 | 3 | 449 |
+| 360d | 2025-10-22 | 29 | 544 | 9 | 278 | 3 | 1020 |
+| last720d | 2024-10-27 | 59 | 1193 | 10 | 372 | 5 | 2194 |
 
 ## Release assets
 
@@ -132,4 +132,4 @@ Install metadata for goreleaser lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261016.yml` · 2026-10-16T04:57:42Z._
+_Snapshot: `data/card/261017.yml` · 2026-10-17T04:40:11Z._
