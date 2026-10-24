@@ -40,28 +40,28 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v2.20.0-2d9b4c9a-nightly` (2026-10-22)
-- **Last commit**: 2026-10-22
+- **Latest**: `v2.20.0-0162ee4b-nightly` (2026-10-22)
+- **Last commit**: 2026-10-23
 - **Assets in release**: 55
 
 ## Popularity
 
-- **Stars**: 16,113 · **Forks**: 1,131 · **Open issues**: 1,853 · **Contributors**: 500
+- **Stars**: 16,117 · **Forks**: 1,131 · **Open issues**: 1,853 · **Contributors**: 500
 
 ## Totals (cumulative)
 
-- **Releases**: 605 · **Merged PRs**: 4066 · **Open PRs**: 7 · **Closed issues**: 1847 · **Open issues**: 6 · **Commits**: 8212
+- **Releases**: 605 · **Merged PRs**: 4067 · **Open PRs**: 10 · **Closed issues**: 1847 · **Open issues**: 6 · **Commits**: 8213
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 8 | 42 | 3 | 7 | 0 | 50 |
-| last60d | 2026-08-24 | 11 | 166 | 5 | 213 | 0 | 176 |
-| 90d | 2026-07-25 | 12 | 234 | 5 | 221 | 0 | 256 |
-| last180d | 2026-04-26 | 14 | 327 | 6 | 236 | 0 | 443 |
-| 360d | 2025-10-28 | 28 | 556 | 6 | 282 | 0 | 1028 |
-| last720d | 2024-11-02 | 60 | 1204 | 7 | 371 | 2 | 2207 |
+| 30d | 2026-09-24 | 8 | 43 | 6 | 7 | 0 | 51 |
+| last60d | 2026-08-25 | 10 | 167 | 8 | 212 | 0 | 177 |
+| 90d | 2026-07-26 | 12 | 233 | 8 | 221 | 0 | 257 |
+| last180d | 2026-04-27 | 14 | 328 | 9 | 236 | 0 | 444 |
+| 360d | 2025-10-29 | 28 | 557 | 9 | 282 | 0 | 1029 |
+| last720d | 2024-11-03 | 58 | 1205 | 10 | 371 | 2 | 2202 |
 
 ## Release assets
 
@@ -125,7 +125,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **76** distros on [repology.org](https://repology.org/project/goreleaser). **4** are ✅ on the latest upstream release, **22** are ⚠️ on an older version.
+Reported by **76** distros on [repology.org](https://repology.org/project/goreleaser). **7** are ✅ on the latest upstream release, **19** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -144,4 +144,4 @@ Install metadata for goreleaser lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261023.yml` · 2026-10-23T05:16:45Z._
+_Snapshot: `data/card/261024.yml` · 2026-10-24T04:58:11Z._
