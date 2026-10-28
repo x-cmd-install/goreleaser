@@ -40,7 +40,7 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v2.20.0-57b095c9-nightly` (2026-10-22)
+- **Latest**: `v2.20.0-2e260e4a-nightly` (2026-10-22)
 - **Last commit**: 2026-10-27
 - **Assets in release**: 55
 
@@ -56,12 +56,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 8 | 46 | 6 | 7 | 0 | 54 |
-| last60d | 2026-08-28 | 10 | 171 | 8 | 211 | 0 | 151 |
-| 90d | 2026-07-29 | 11 | 237 | 8 | 221 | 0 | 251 |
-| last180d | 2026-04-30 | 14 | 331 | 9 | 235 | 0 | 430 |
-| 360d | 2025-11-01 | 28 | 557 | 9 | 280 | 0 | 998 |
-| last720d | 2024-11-06 | 55 | 1199 | 10 | 367 | 2 | 2185 |
+| 30d | 2026-09-28 | 8 | 46 | 6 | 7 | 0 | 54 |
+| last60d | 2026-08-29 | 10 | 165 | 8 | 211 | 0 | 151 |
+| 90d | 2026-07-30 | 11 | 235 | 8 | 221 | 0 | 251 |
+| last180d | 2026-05-01 | 14 | 330 | 9 | 235 | 0 | 430 |
+| 360d | 2025-11-02 | 28 | 555 | 9 | 279 | 0 | 998 |
+| last720d | 2024-11-07 | 55 | 1196 | 10 | 367 | 2 | 2180 |
 
 ## Release assets
 
@@ -144,4 +144,4 @@ Install metadata for goreleaser lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261027.yml` · 2026-10-27T05:27:10Z._
+_Snapshot: `data/card/261028.yml` · 2026-10-28T06:02:32Z._
