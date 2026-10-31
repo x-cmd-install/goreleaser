@@ -1,38 +1,12 @@
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: goreleaser
-  binname: goreleaser
-  visiblename: goreleaser
-  version: 2.14.0
-  origversion: 2.14.0-2
-  status: outdated
-  summary: Deliver Go binaries as fast and easily as possible
-  licenses:
-    - MIT
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: goreleaser
-  binname: goreleaser
-  visiblename: goreleaser
-  version: 2.14.0
-  origversion: 2.14.0-2
-  status: outdated
-  summary: Deliver Go binaries as fast and easily as possible
-  licenses:
-    - MIT
-- repo: nix_stable_25_05
-  srcname: goreleaser
-  visiblename: goreleaser
-  version: 2.9.0
+- repo: wikidata
+  srcname: Q136341978
+  visiblename: GoReleaser
+  version: 2.19.0
   origversion: null
-  status: outdated
-  summary: Deliver Go binaries as fast and easily as possible
-  maintainers:
-    - rob@sarcasticadmin.com
-    - techknowlogick@gitea.com
-    - carlos@becker.software
+  status: newest
+  summary: CLI tool for release engineering
   licenses:
-    - MIT
+    - MIT License
 - repo: alt_p11
   srcname: goreleaser
   binnames:
@@ -146,6 +120,28 @@
     - MIT
   categories:
     - devel
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: goreleaser
+  binname: goreleaser
+  visiblename: goreleaser
+  version: 2.14.0
+  origversion: 2.14.0-2
+  status: outdated
+  summary: Deliver Go binaries as fast and easily as possible
+  licenses:
+    - MIT
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: goreleaser
+  binname: goreleaser
+  visiblename: goreleaser
+  version: 2.14.0
+  origversion: 2.14.0-2
+  status: outdated
+  summary: Deliver Go binaries as fast and easily as possible
+  licenses:
+    - MIT
 - repo: manjaro_unstable
   subrepo: extra
   srcname: goreleaser
@@ -185,6 +181,19 @@
     - carlos@becker.software
   licenses:
     - MIT
+- repo: nix_stable_25_05
+  srcname: goreleaser
+  visiblename: goreleaser
+  version: 2.9.0
+  origversion: null
+  status: outdated
+  summary: Deliver Go binaries as fast and easily as possible
+  maintainers:
+    - rob@sarcasticadmin.com
+    - techknowlogick@gitea.com
+    - carlos@becker.software
+  licenses:
+    - MIT
 - repo: nix_stable_25_11
   srcname: goreleaser
   visiblename: goreleaser
@@ -211,6 +220,15 @@
     - carlos@becker.software
   licenses:
     - MIT
+- repo: wakemeops
+  subrepo: devops
+  binname: goreleaser
+  visiblename: goreleaser
+  version: 2.12.6
+  origversion: 2.12.6-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
 - repo: nix_unstable
   srcname: goreleaser
   visiblename: goreleaser
@@ -454,15 +472,6 @@
   visiblename: goreleaser
   version: 2.12.7
   origversion: 2.12.7-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: goreleaser
-  visiblename: goreleaser
-  version: 2.12.6
-  origversion: 2.12.6-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
@@ -745,12 +754,3 @@
   status: legacy
   maintainers:
     - ops2deb@upciti.com
-- repo: wikidata
-  srcname: Q136341978
-  visiblename: GoReleaser
-  version: 2.19.0
-  origversion: null
-  status: newest
-  summary: CLI tool for release engineering
-  licenses:
-    - MIT License
