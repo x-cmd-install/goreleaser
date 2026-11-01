@@ -46,22 +46,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 16,127 · **Forks**: 1,133 · **Open issues**: 1,853 · **Contributors**: 500
+- **Stars**: 16,126 · **Forks**: 1,133 · **Open issues**: 1,853 · **Contributors**: 500
 
 ## Totals (cumulative)
 
-- **Releases**: 604 · **Merged PRs**: 4072 · **Open PRs**: 12 · **Closed issues**: 1847 · **Open issues**: 6 · **Commits**: 8218
+- **Releases**: 604 · **Merged PRs**: 4072 · **Open PRs**: 15 · **Closed issues**: 1847 · **Open issues**: 6 · **Commits**: 8218
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 7 | 45 | 8 | 7 | 0 | 55 |
-| last60d | 2026-09-01 | 9 | 143 | 10 | 207 | 0 | 152 |
-| 90d | 2026-08-02 | 10 | 228 | 10 | 219 | 0 | 252 |
-| last180d | 2026-05-04 | 13 | 328 | 11 | 235 | 0 | 431 |
-| 360d | 2025-11-05 | 27 | 549 | 11 | 279 | 0 | 999 |
-| last720d | 2024-11-10 | 54 | 1192 | 12 | 367 | 2 | 2172 |
+| 30d | 2026-10-02 | 7 | 40 | 11 | 6 | 0 | 55 |
+| last60d | 2026-09-02 | 9 | 141 | 13 | 206 | 0 | 152 |
+| 90d | 2026-08-03 | 10 | 228 | 13 | 219 | 0 | 252 |
+| last180d | 2026-05-05 | 13 | 328 | 14 | 234 | 0 | 431 |
+| 360d | 2025-11-06 | 27 | 547 | 14 | 279 | 0 | 999 |
+| last720d | 2024-11-11 | 54 | 1189 | 15 | 367 | 2 | 2172 |
 
 ## Release assets
 
@@ -125,7 +125,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **76** distros on [repology.org](https://repology.org/project/goreleaser). **8** are ✅ on the latest upstream release, **18** are ⚠️ on an older version.
+Reported by **76** distros on [repology.org](https://repology.org/project/goreleaser). **9** are ✅ on the latest upstream release, **17** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -144,4 +144,4 @@ Install metadata for goreleaser lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261031.yml` · 2026-10-31T05:56:39Z._
+_Snapshot: `data/card/261101.yml` · 2026-11-01T06:24:40Z._
