@@ -1,12 +1,15 @@
-- repo: wikidata
-  srcname: Q136341978
-  visiblename: GoReleaser
-  version: 2.19.0
+- repo: openbsd
+  srcname: devel/goreleaser
+  binname: goreleaser
+  visiblename: devel/goreleaser
+  version: 2.18.3
   origversion: null
-  status: newest
-  summary: CLI tool for release engineering
-  licenses:
-    - MIT License
+  status: outdated
+  summary: deliver Go binaries as fast and easily as possible
+  maintainers:
+    - foxy@free.fr
+  categories:
+    - devel
 - repo: alt_p11
   srcname: goreleaser
   binnames:
@@ -60,6 +63,15 @@
   summary: Deliver Go binaries as fast and easily as possible
   licenses:
     - MIT
+- repo: wikidata
+  srcname: Q136341978
+  visiblename: GoReleaser
+  version: 2.19.0
+  origversion: null
+  status: newest
+  summary: CLI tool for release engineering
+  licenses:
+    - MIT License
 - repo: aur
   srcname: goreleaser-bin
   binname: goreleaser-bin
@@ -84,9 +96,9 @@
   srcname: devel/goreleaser
   binname: goreleaser
   visiblename: devel/goreleaser
-  version: 2.18.3
-  origversion: 2.18.3_1
-  status: outdated
+  version: 2.19.0
+  origversion: null
+  status: newest
   summary: Deliver Go binaries as fast and easily as possible
   maintainers:
     - fuz@freebsd.org
@@ -220,15 +232,6 @@
     - carlos@becker.software
   licenses:
     - MIT
-- repo: wakemeops
-  subrepo: devops
-  binname: goreleaser
-  visiblename: goreleaser
-  version: 2.12.6
-  origversion: 2.12.6-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
 - repo: nix_unstable
   srcname: goreleaser
   visiblename: goreleaser
@@ -242,18 +245,6 @@
     - carlos@becker.software
   licenses:
     - MIT
-- repo: openbsd
-  srcname: devel/goreleaser
-  binname: goreleaser
-  visiblename: devel/goreleaser
-  version: 2.18.3
-  origversion: null
-  status: outdated
-  summary: deliver Go binaries as fast and easily as possible
-  maintainers:
-    - foxy@free.fr
-  categories:
-    - devel
 - repo: opensuse_tumbleweed
   subrepo: src-oss
   srcname: goreleaser
@@ -472,6 +463,15 @@
   visiblename: goreleaser
   version: 2.12.7
   origversion: 2.12.7-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: goreleaser
+  visiblename: goreleaser
+  version: 2.12.6
+  origversion: 2.12.6-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
