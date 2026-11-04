@@ -11,15 +11,20 @@
     - carlos@becker.software
   licenses:
     - MIT
-- repo: wakemeops
-  subrepo: devops
-  binname: goreleaser
+- repo: homebrew
+  srcname: goreleaser
   visiblename: goreleaser
-  version: 2.12.5
-  origversion: 2.12.5-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
+  version: 2.19.0
+  origversion: null
+  status: newest
+  summary: Deliver Go binaries as fast and easily as possible
+- repo: homebrew
+  srcname: goreleaser
+  visiblename: goreleaser
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Deliver Go binaries as fast and easily as possible
 - repo: alt_p11
   srcname: goreleaser
   binnames:
@@ -105,20 +110,6 @@
     - fuz@freebsd.org
   categories:
     - devel
-- repo: homebrew
-  srcname: goreleaser
-  visiblename: goreleaser
-  version: 2.19.0
-  origversion: null
-  status: newest
-  summary: Deliver Go binaries as fast and easily as possible
-- repo: homebrew
-  srcname: goreleaser
-  visiblename: goreleaser
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Deliver Go binaries as fast and easily as possible
 - repo: macports
   srcname: devel/goreleaser
   binname: goreleaser
@@ -472,6 +463,15 @@
   visiblename: goreleaser
   version: 2.12.6
   origversion: 2.12.6-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: goreleaser
+  visiblename: goreleaser
+  version: 2.12.5
+  origversion: 2.12.5-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
