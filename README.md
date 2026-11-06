@@ -41,28 +41,28 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v2.21.0-ed8efe6a-nightly` (2026-11-04)
+- **Latest**: `v2.21.0-2c336825-nightly` (2026-11-04)
 - **Last commit**: 2026-11-05
 - **Assets in release**: 55
 
 ## Popularity
 
-- **Stars**: 16,136 · **Forks**: 1,135 · **Open issues**: 1,856 · **Contributors**: 505
+- **Stars**: 16,136 · **Forks**: 1,139 · **Open issues**: 1,856 · **Contributors**: 505
 
 ## Totals (cumulative)
 
-- **Releases**: 605 · **Merged PRs**: 4093 · **Open PRs**: 12 · **Closed issues**: 1848 · **Open issues**: 8 · **Commits**: 8248
+- **Releases**: 605 · **Merged PRs**: 4093 · **Open PRs**: 15 · **Closed issues**: 1848 · **Open issues**: 8 · **Commits**: 8248
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 8 | 58 | 8 | 5 | 2 | 72 |
-| last60d | 2026-09-06 | 9 | 100 | 10 | 12 | 2 | 115 |
-| 90d | 2026-08-07 | 11 | 248 | 10 | 219 | 2 | 269 |
-| last180d | 2026-05-09 | 14 | 343 | 11 | 233 | 2 | 444 |
-| 360d | 2025-11-10 | 28 | 561 | 11 | 280 | 2 | 1002 |
-| last720d | 2024-11-15 | 54 | 1195 | 12 | 363 | 4 | 2188 |
+| 30d | 2026-10-07 | 8 | 58 | 11 | 5 | 2 | 72 |
+| last60d | 2026-09-07 | 9 | 99 | 12 | 12 | 2 | 115 |
+| 90d | 2026-08-08 | 11 | 243 | 13 | 218 | 2 | 269 |
+| last180d | 2026-05-10 | 14 | 343 | 14 | 233 | 2 | 444 |
+| 360d | 2025-11-11 | 28 | 561 | 14 | 280 | 2 | 1002 |
+| last720d | 2024-11-16 | 54 | 1195 | 15 | 363 | 4 | 2184 |
 
 ## Release assets
 
@@ -126,13 +126,13 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **76** distros on [repology.org](https://repology.org/project/goreleaser). **6** are ✅ on the latest upstream release, **20** are ⚠️ on an older version.
+Reported by **76** distros on [repology.org](https://repology.org/project/goreleaser). **7** are ✅ on the latest upstream release, **19** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Arch | `2.14.0` | ⚠️ outdated |
 | Homebrew | `2.20.0` | ✅ latest |
-| Nix unstable | `2.17.1` | ⚠️ outdated |
+| Nix unstable | `2.19.0` | ⚠️ outdated |
 | Void | `2.18.2` | ⚠️ outdated |
 | openSUSE Tumbleweed | `2.18.3` | ⚠️ outdated |
 
@@ -145,4 +145,4 @@ Install metadata for goreleaser lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261105.yml` · 2026-11-05T07:01:00Z._
+_Snapshot: `data/card/261106.yml` · 2026-11-06T07:03:44Z._
