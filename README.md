@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 16,143 · **Forks**: 1,139 · **Open issues**: 1,856 · **Contributors**: 505
+- **Stars**: 16,145 · **Forks**: 1,140 · **Open issues**: 1,856 · **Contributors**: 505
 
 ## Totals (cumulative)
 
-- **Releases**: 605 · **Merged PRs**: 4093 · **Open PRs**: 22 · **Closed issues**: 1848 · **Open issues**: 8 · **Commits**: 8248
+- **Releases**: 605 · **Merged PRs**: 4093 · **Open PRs**: 23 · **Closed issues**: 1848 · **Open issues**: 8 · **Commits**: 8248
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 7 | 48 | 18 | 4 | 2 | 58 |
-| last60d | 2026-09-10 | 9 | 94 | 19 | 9 | 2 | 102 |
-| 90d | 2026-08-11 | 11 | 240 | 20 | 217 | 2 | 246 |
-| last180d | 2026-05-13 | 14 | 342 | 21 | 233 | 2 | 420 |
-| 360d | 2025-11-14 | 28 | 556 | 21 | 280 | 2 | 997 |
-| last720d | 2024-11-19 | 52 | 1190 | 22 | 360 | 4 | 2169 |
+| 30d | 2026-10-11 | 7 | 48 | 19 | 3 | 2 | 58 |
+| last60d | 2026-09-11 | 9 | 94 | 20 | 9 | 2 | 102 |
+| 90d | 2026-08-12 | 11 | 238 | 21 | 217 | 2 | 246 |
+| last180d | 2026-05-14 | 14 | 342 | 22 | 233 | 2 | 420 |
+| 360d | 2025-11-15 | 28 | 556 | 22 | 280 | 2 | 997 |
+| last720d | 2024-11-20 | 52 | 1188 | 23 | 359 | 4 | 2168 |
 
 ## Release assets
 
@@ -126,7 +126,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **76** distros on [repology.org](https://repology.org/project/goreleaser). **9** are ✅ on the latest upstream release, **17** are ⚠️ on an older version.
+Reported by **76** distros on [repology.org](https://repology.org/project/goreleaser). **10** are ✅ on the latest upstream release, **16** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -134,7 +134,7 @@ Reported by **76** distros on [repology.org](https://repology.org/project/gorele
 | Homebrew | `2.20.0` | ✅ latest |
 | Nix unstable | `2.20.0` | ✅ latest |
 | Void | `2.18.2` | ⚠️ outdated |
-| openSUSE Tumbleweed | `2.18.3` | ⚠️ outdated |
+| openSUSE Tumbleweed | `2.20.0` | ✅ latest |
 
 ## Improve this data
 
@@ -145,4 +145,4 @@ Install metadata for goreleaser lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261109.yml` · 2026-11-09T06:52:01Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T07:46:22Z._
