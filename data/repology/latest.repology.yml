@@ -1,52 +1,12 @@
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: goreleaser
-  binname: goreleaser
-  visiblename: goreleaser
-  version: 2.14.0
-  origversion: 2.14.0-2
-  status: outdated
-  summary: Deliver Go binaries as fast and easily as possible
-  licenses:
-    - MIT
 - repo: wakemeops
   subrepo: devops
   binname: goreleaser
   visiblename: goreleaser
-  version: 2.15.4
-  origversion: 2.15.4-1~ops2deb
+  version: 2.18.3
+  origversion: 2.18.3-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: goreleaser
-  visiblename: goreleaser
-  version: 2.14.3
-  origversion: 2.14.3-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: goreleaser
-  visiblename: goreleaser
-  version: 2.14.2
-  origversion: 2.14.2-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: goreleaser
-  binname: goreleaser
-  visiblename: goreleaser
-  version: 2.14.0
-  origversion: 2.14.0-2
-  status: outdated
-  summary: Deliver Go binaries as fast and easily as possible
-  licenses:
-    - MIT
 - repo: alt_p11
   srcname: goreleaser
   binnames:
@@ -150,9 +110,9 @@
   srcname: devel/goreleaser
   binname: goreleaser
   visiblename: goreleaser
-  version: 2.20.1
+  version: 2.20.2
   origversion: null
-  status: outdated
+  status: newest
   summary: Deliver Go binaries as fast and easily as possible
   maintainers:
     - herbygillot@github
@@ -161,6 +121,28 @@
   categories:
     - devel
 - repo: manjaro_stable
+  subrepo: extra
+  srcname: goreleaser
+  binname: goreleaser
+  visiblename: goreleaser
+  version: 2.14.0
+  origversion: 2.14.0-2
+  status: outdated
+  summary: Deliver Go binaries as fast and easily as possible
+  licenses:
+    - MIT
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: goreleaser
+  binname: goreleaser
+  visiblename: goreleaser
+  version: 2.14.0
+  origversion: 2.14.0-2
+  status: outdated
+  summary: Deliver Go binaries as fast and easily as possible
+  licenses:
+    - MIT
+- repo: manjaro_unstable
   subrepo: extra
   srcname: goreleaser
   binname: goreleaser
@@ -364,15 +346,6 @@
   subrepo: devops
   binname: goreleaser
   visiblename: goreleaser
-  version: 2.18.3
-  origversion: 2.18.3-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: goreleaser
-  visiblename: goreleaser
   version: 2.18.2
   origversion: 2.18.2-1~ops2deb
   status: legacy
@@ -420,6 +393,33 @@
   visiblename: goreleaser
   version: 2.16.0
   origversion: 2.16.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: goreleaser
+  visiblename: goreleaser
+  version: 2.15.4
+  origversion: 2.15.4-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: goreleaser
+  visiblename: goreleaser
+  version: 2.14.3
+  origversion: 2.14.3-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: goreleaser
+  visiblename: goreleaser
+  version: 2.14.2
+  origversion: 2.14.2-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
