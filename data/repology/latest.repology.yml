@@ -1,12 +1,3 @@
-- repo: wakemeops
-  subrepo: devops
-  binname: goreleaser
-  visiblename: goreleaser
-  version: 2.18.3
-  origversion: 2.18.3-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
 - repo: alt_p11
   srcname: goreleaser
   binnames:
@@ -220,6 +211,15 @@
     - carlos@becker.software
   licenses:
     - MIT
+- repo: wakemeops
+  subrepo: devops
+  binname: goreleaser
+  visiblename: goreleaser
+  version: 2.13.1
+  origversion: 2.13.1-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
 - repo: nix_unstable
   srcname: goreleaser
   visiblename: goreleaser
@@ -346,6 +346,15 @@
   subrepo: devops
   binname: goreleaser
   visiblename: goreleaser
+  version: 2.18.3
+  origversion: 2.18.3-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: goreleaser
+  visiblename: goreleaser
   version: 2.18.2
   origversion: 2.18.2-1~ops2deb
   status: legacy
@@ -369,6 +378,15 @@
   status: legacy
   maintainers:
     - ops2deb@upciti.com
+- repo: wikidata
+  srcname: Q136341978
+  visiblename: GoReleaser
+  version: 2.20.2
+  origversion: null
+  status: newest
+  summary: CLI tool for release engineering
+  licenses:
+    - MIT License
 - repo: wakemeops
   subrepo: devops
   binname: goreleaser
@@ -456,15 +474,6 @@
   visiblename: goreleaser
   version: 2.13.2
   origversion: 2.13.2-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: goreleaser
-  visiblename: goreleaser
-  version: 2.13.1
-  origversion: 2.13.1-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
@@ -747,12 +756,3 @@
   status: legacy
   maintainers:
     - ops2deb@upciti.com
-- repo: wikidata
-  srcname: Q136341978
-  visiblename: GoReleaser
-  version: 2.20.1
-  origversion: null
-  status: outdated
-  summary: CLI tool for release engineering
-  licenses:
-    - MIT License
