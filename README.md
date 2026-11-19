@@ -14,23 +14,22 @@ x install goreleaser
 
 ## Code insight
 
-Total: **112,057** lines of code across **476** files in the top 5 languages.
+Total: **112,068** lines of code across **476** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 93,308 | 2,855 | 10,115 | 411 |
-| Json | 15,418 | 0 | 1 | 14 |
+| Go | 93,312 | 2,855 | 10,115 | 411 |
+| Json | 15,425 | 0 | 1 | 14 |
 | Yaml | 1,117 | 82 | 121 | 34 |
 | Html | 690 | 19 | 15 | 13 |
 | Svg | 546 | 0 | 0 | 4 |
 
 ## OpenSSF Scorecard
 
-Overall score: **8.6 / 10**
+Overall score: **8.7 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (4/10) — Found 11/23 approved changesets -- score normalized to 4
 - **Branch-Protection** (3/10) — branch protection is not maximal on development and all release branches
 
 ## Source
@@ -41,28 +40,28 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v2.21.0-8128d878-nightly` (2026-11-12)
-- **Last commit**: 2026-11-15
+- **Latest**: `v2.21.0-336e9356-nightly` (2026-11-12)
+- **Last commit**: 2026-11-18
 - **Assets in release**: 55
 
 ## Popularity
 
-- **Stars**: 16,148 · **Forks**: 1,156 · **Open issues**: 1,859 · **Contributors**: 512
+- **Stars**: 16,153 · **Forks**: 1,159 · **Open issues**: 1,859 · **Contributors**: 512
 
 ## Totals (cumulative)
 
-- **Releases**: 607 · **Merged PRs**: 4128 · **Open PRs**: 22 · **Closed issues**: 1850 · **Open issues**: 9 · **Commits**: 8287
+- **Releases**: 607 · **Merged PRs**: 4131 · **Open PRs**: 20 · **Closed issues**: 1852 · **Open issues**: 7 · **Commits**: 8290
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 9 | 72 | 18 | 4 | 3 | 75 |
-| last60d | 2026-09-18 | 10 | 112 | 18 | 10 | 3 | 125 |
-| 90d | 2026-08-19 | 13 | 241 | 20 | 217 | 3 | 251 |
-| last180d | 2026-05-21 | 16 | 366 | 21 | 233 | 3 | 439 |
-| 360d | 2025-11-22 | 30 | 585 | 21 | 281 | 3 | 1024 |
-| last720d | 2024-11-27 | 53 | 1213 | 22 | 361 | 5 | 2191 |
+| 30d | 2026-10-20 | 9 | 73 | 16 | 4 | 2 | 78 |
+| last60d | 2026-09-20 | 10 | 108 | 16 | 11 | 2 | 128 |
+| 90d | 2026-08-21 | 13 | 239 | 18 | 217 | 2 | 254 |
+| last180d | 2026-05-23 | 16 | 365 | 19 | 234 | 2 | 442 |
+| 360d | 2025-11-24 | 30 | 588 | 19 | 282 | 2 | 1027 |
+| last720d | 2024-11-29 | 53 | 1213 | 20 | 359 | 4 | 2191 |
 
 ## Release assets
 
@@ -124,6 +123,18 @@ Lowest-scoring checks:
 | [goreleaser_Windows_x86_64.zip](https://github.com/goreleaser/goreleaser/releases/download/v2.20.2/goreleaser_Windows_x86_64.zip) | 27.2 MiB | `native/win/x64` |
 | [goreleaser_Windows_x86_64.zip.sbom.json](https://github.com/goreleaser/goreleaser/releases/download/v2.20.2/goreleaser_Windows_x86_64.zip.sbom.json) | 536.6 KiB | `native/win/x64` |
 
+## Distribution status
+
+Reported by **76** distros on [repology.org](https://repology.org/project/goreleaser). **8** are ✅ on the latest upstream release, **18** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `2.14.0` | ⚠️ outdated |
+| Homebrew | `2.20.2` | ✅ latest |
+| Nix unstable | `2.20.1` | ⚠️ outdated |
+| Void | `2.18.2` | ⚠️ outdated |
+| openSUSE Tumbleweed | `2.20.0` | ⚠️ outdated |
+
 ## Improve this data
 
 Install metadata for goreleaser lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `goreleaser` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -133,4 +144,4 @@ Install metadata for goreleaser lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T10:19:43Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T09:34:01Z._
