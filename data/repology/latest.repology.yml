@@ -1,3 +1,16 @@
+- repo: nix_stable_25_05
+  srcname: goreleaser
+  visiblename: goreleaser
+  version: 2.9.0
+  origversion: null
+  status: outdated
+  summary: Deliver Go binaries as fast and easily as possible
+  maintainers:
+    - rob@sarcasticadmin.com
+    - techknowlogick@gitea.com
+    - carlos@becker.software
+  licenses:
+    - MIT
 - repo: nix_stable_25_11
   srcname: goreleaser
   visiblename: goreleaser
@@ -26,19 +39,15 @@
     - carlos@becker.software
   licenses:
     - MIT
-- repo: nix_stable_24_11
-  srcname: goreleaser
+- repo: wakemeops
+  subrepo: devops
+  binname: goreleaser
   visiblename: goreleaser
-  version: 2.4.8
-  origversion: null
-  status: outdated
-  summary: Deliver Go binaries as fast and easily as possible
+  version: 2.12.6
+  origversion: 2.12.6-1~ops2deb
+  status: legacy
   maintainers:
-    - rob@sarcasticadmin.com
-    - techknowlogick@gitea.com
-    - carlos@becker.software
-  licenses:
-    - MIT
+    - ops2deb@upciti.com
 - repo: alt_p11
   srcname: goreleaser
   binnames:
@@ -74,7 +83,7 @@
   binname: goreleaser
   visiblename: goreleaser
   version: 2.18.0
-  origversion: null
+  origversion: 2.18.0-1
   status: outdated
   summary: Tool for building and releasing Go projects
   maintainers:
@@ -185,10 +194,10 @@
   summary: Deliver Go binaries as fast and easily as possible
   licenses:
     - MIT
-- repo: nix_stable_25_05
+- repo: nix_stable_24_11
   srcname: goreleaser
   visiblename: goreleaser
-  version: 2.9.0
+  version: 2.4.8
   origversion: null
   status: outdated
   summary: Deliver Go binaries as fast and easily as possible
@@ -483,15 +492,6 @@
   visiblename: goreleaser
   version: 2.12.7
   origversion: 2.12.7-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: goreleaser
-  visiblename: goreleaser
-  version: 2.12.6
-  origversion: 2.12.6-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
