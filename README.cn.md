@@ -14,19 +14,19 @@ x install goreleaser
 
 ## 代码洞察
 
-合计: **112,068** 行代码（覆盖前 5 种语言、共 **476** 个文件）。
+合计: **112,386** 行代码（覆盖前 5 种语言、共 **478** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 93,312 | 2,855 | 10,115 | 411 |
-| Json | 15,425 | 0 | 1 | 14 |
+| Go | 93,624 | 2,885 | 10,150 | 413 |
+| Json | 15,431 | 0 | 1 | 14 |
 | Yaml | 1,117 | 82 | 121 | 34 |
 | Html | 690 | 19 | 15 | 13 |
 | Svg | 546 | 0 | 0 | 4 |
 
 ## OpenSSF Scorecard 评分
 
-总评分: **8.7 / 10**
+总评分: **8.8 / 10**
 
 评分最低的几项:
 
@@ -40,97 +40,97 @@ x install goreleaser
 
 ## 发布
 
-- **最新版本**: `v2.21.0-336e9356-nightly` (2026-11-12)
-- **最近提交**: 2026-11-18
+- **最新版本**: `v2.20.3` (2026-11-20)
+- **最近提交**: 2026-11-20
 - **Release 含资产**: 55 个
 
 ## 流行度
 
-- **Star**: 16,153 · **Fork**: 1,159 · **开放 issue**: 1,859 · **贡献者**: 512
+- **Star**: 16,151 · **Fork**: 1,164 · **开放 issue**: 1,860 · **贡献者**: 515
 
 ## 累计统计
 
-- **发布数**: 607 · **已合并 PR**: 4131 · **开放 PR**: 20 · **已关闭 issue**: 1852 · **开放 issue**: 7 · **提交数**: 8290
+- **发布数**: 608 · **已合并 PR**: 4138 · **开放 PR**: 16 · **已关闭 issue**: 1853 · **开放 issue**: 7 · **提交数**: 8298
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 9 | 73 | 16 | 4 | 2 | 78 |
-| last60d | 2026-09-20 | 10 | 108 | 16 | 11 | 2 | 128 |
-| 90d | 2026-08-21 | 13 | 239 | 18 | 217 | 2 | 254 |
-| last180d | 2026-05-23 | 16 | 365 | 19 | 234 | 2 | 442 |
-| 360d | 2025-11-24 | 30 | 588 | 19 | 282 | 2 | 1027 |
-| last720d | 2024-11-29 | 53 | 1213 | 20 | 359 | 4 | 2191 |
+| 30d | 2026-10-21 | 10 | 74 | 10 | 5 | 2 | 86 |
+| last60d | 2026-09-21 | 11 | 115 | 12 | 12 | 2 | 136 |
+| 90d | 2026-08-22 | 14 | 243 | 14 | 218 | 2 | 262 |
+| last180d | 2026-05-24 | 17 | 372 | 15 | 235 | 2 | 450 |
+| 360d | 2025-11-25 | 31 | 595 | 15 | 283 | 2 | 1035 |
+| last720d | 2024-11-30 | 54 | 1219 | 15 | 360 | 4 | 2175 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [checksums.txt](https://github.com/goreleaser/goreleaser/releases/download/v2.20.2/checksums.txt) | 5.1 KiB | `other` |
-| [checksums.txt.sigstore.json](https://github.com/goreleaser/goreleaser/releases/download/v2.20.2/checksums.txt.sigstore.json) | 10.1 KiB | `other` |
-| [goreleaser-2.20.2-1-aarch64.pkg.tar.zst](https://github.com/goreleaser/goreleaser/releases/download/v2.20.2/goreleaser-2.20.2-1-aarch64.pkg.tar.zst) | 22.9 MiB | `other` |
-| [goreleaser-2.20.2-1-armv7h.pkg.tar.zst](https://github.com/goreleaser/goreleaser/releases/download/v2.20.2/goreleaser-2.20.2-1-armv7h.pkg.tar.zst) | 23.3 MiB | `other` |
-| [goreleaser-2.20.2-1-i686.pkg.tar.zst](https://github.com/goreleaser/goreleaser/releases/download/v2.20.2/goreleaser-2.20.2-1-i686.pkg.tar.zst) | 23.5 MiB | `other` |
-| [goreleaser-2.20.2-1-x86_64.pkg.tar.zst](https://github.com/goreleaser/goreleaser/releases/download/v2.20.2/goreleaser-2.20.2-1-x86_64.pkg.tar.zst) | 25.5 MiB | `other` |
-| [goreleaser-2.20.2-1.aarch64.rpm](https://github.com/goreleaser/goreleaser/releases/download/v2.20.2/goreleaser-2.20.2-1.aarch64.rpm) | 24.4 MiB | `runtime/rpm/aarch64` |
-| [goreleaser-2.20.2-1.armv7hl.rpm](https://github.com/goreleaser/goreleaser/releases/download/v2.20.2/goreleaser-2.20.2-1.armv7hl.rpm) | 25.3 MiB | `runtime/rpm/armv7hl` |
-| [goreleaser-2.20.2-1.i386.rpm](https://github.com/goreleaser/goreleaser/releases/download/v2.20.2/goreleaser-2.20.2-1.i386.rpm) | 25.3 MiB | `other` |
-| [goreleaser-2.20.2-1.loongarch64.rpm](https://github.com/goreleaser/goreleaser/releases/download/v2.20.2/goreleaser-2.20.2-1.loongarch64.rpm) | 25.7 MiB | `other` |
-| [goreleaser-2.20.2-1.ppc64.rpm](https://github.com/goreleaser/goreleaser/releases/download/v2.20.2/goreleaser-2.20.2-1.ppc64.rpm) | 24.6 MiB | `other` |
-| [goreleaser-2.20.2-1.riscv64.rpm](https://github.com/goreleaser/goreleaser/releases/download/v2.20.2/goreleaser-2.20.2-1.riscv64.rpm) | 26.0 MiB | `other` |
-| [goreleaser-2.20.2-1.x86_64.rpm](https://github.com/goreleaser/goreleaser/releases/download/v2.20.2/goreleaser-2.20.2-1.x86_64.rpm) | 27.2 MiB | `runtime/rpm/x86_64` |
-| [goreleaser_2.20.2_aarch64.apk](https://github.com/goreleaser/goreleaser/releases/download/v2.20.2/goreleaser_2.20.2_aarch64.apk) | 24.7 MiB | `other` |
-| [goreleaser_2.20.2_amd64.deb](https://github.com/goreleaser/goreleaser/releases/download/v2.20.2/goreleaser_2.20.2_amd64.deb) | 26.5 MiB | `runtime/deb/amd64` |
-| [goreleaser_2.20.2_arm64.deb](https://github.com/goreleaser/goreleaser/releases/download/v2.20.2/goreleaser_2.20.2_arm64.deb) | 23.8 MiB | `runtime/deb/arm64` |
-| [goreleaser_2.20.2_armhf.deb](https://github.com/goreleaser/goreleaser/releases/download/v2.20.2/goreleaser_2.20.2_armhf.deb) | 24.7 MiB | `runtime/deb/armhf` |
-| [goreleaser_2.20.2_armv7.apk](https://github.com/goreleaser/goreleaser/releases/download/v2.20.2/goreleaser_2.20.2_armv7.apk) | 25.7 MiB | `other` |
-| [goreleaser_2.20.2_i386.deb](https://github.com/goreleaser/goreleaser/releases/download/v2.20.2/goreleaser_2.20.2_i386.deb) | 24.6 MiB | `runtime/deb/i386` |
-| [goreleaser_2.20.2_linux_amd64.flatpak](https://github.com/goreleaser/goreleaser/releases/download/v2.20.2/goreleaser_2.20.2_linux_amd64.flatpak) | 18.2 MiB | `native/linux/x64` |
-| [goreleaser_2.20.2_linux_arm64.flatpak](https://github.com/goreleaser/goreleaser/releases/download/v2.20.2/goreleaser_2.20.2_linux_arm64.flatpak) | 15.4 MiB | `native/linux/arm64` |
-| [goreleaser_2.20.2_loong64.deb](https://github.com/goreleaser/goreleaser/releases/download/v2.20.2/goreleaser_2.20.2_loong64.deb) | 25.1 MiB | `other` |
-| [goreleaser_2.20.2_loongarch64.apk](https://github.com/goreleaser/goreleaser/releases/download/v2.20.2/goreleaser_2.20.2_loongarch64.apk) | 26.1 MiB | `other` |
-| [goreleaser_2.20.2_ppc64.apk](https://github.com/goreleaser/goreleaser/releases/download/v2.20.2/goreleaser_2.20.2_ppc64.apk) | 25.0 MiB | `other` |
-| [goreleaser_2.20.2_ppc64.deb](https://github.com/goreleaser/goreleaser/releases/download/v2.20.2/goreleaser_2.20.2_ppc64.deb) | 23.6 MiB | `other` |
-| [goreleaser_2.20.2_riscv64.apk](https://github.com/goreleaser/goreleaser/releases/download/v2.20.2/goreleaser_2.20.2_riscv64.apk) | 26.3 MiB | `other` |
-| [goreleaser_2.20.2_riscv64.deb](https://github.com/goreleaser/goreleaser/releases/download/v2.20.2/goreleaser_2.20.2_riscv64.deb) | 25.4 MiB | `runtime/deb/riscv64` |
-| [goreleaser_2.20.2_x86.apk](https://github.com/goreleaser/goreleaser/releases/download/v2.20.2/goreleaser_2.20.2_x86.apk) | 25.6 MiB | `other` |
-| [goreleaser_2.20.2_x86_64.apk](https://github.com/goreleaser/goreleaser/releases/download/v2.20.2/goreleaser_2.20.2_x86_64.apk) | 27.6 MiB | `other` |
-| [goreleaser_Darwin_all.tar.gz](https://github.com/goreleaser/goreleaser/releases/download/v2.20.2/goreleaser_Darwin_all.tar.gz) | 53.2 MiB | `native/darwin/x64` |
-| [goreleaser_Darwin_all.tar.gz.sbom.json](https://github.com/goreleaser/goreleaser/releases/download/v2.20.2/goreleaser_Darwin_all.tar.gz.sbom.json) | 971.0 KiB | `native/darwin/x64` |
-| [goreleaser_Darwin_arm64.tar.gz](https://github.com/goreleaser/goreleaser/releases/download/v2.20.2/goreleaser_Darwin_arm64.tar.gz) | 25.2 MiB | `native/darwin/arm64` |
-| [goreleaser_Darwin_arm64.tar.gz.sbom.json](https://github.com/goreleaser/goreleaser/releases/download/v2.20.2/goreleaser_Darwin_arm64.tar.gz.sbom.json) | 528.5 KiB | `native/darwin/arm64` |
-| [goreleaser_Darwin_x86_64.tar.gz](https://github.com/goreleaser/goreleaser/releases/download/v2.20.2/goreleaser_Darwin_x86_64.tar.gz) | 28.0 MiB | `native/darwin/x64` |
-| [goreleaser_Darwin_x86_64.tar.gz.sbom.json](https://github.com/goreleaser/goreleaser/releases/download/v2.20.2/goreleaser_Darwin_x86_64.tar.gz.sbom.json) | 528.8 KiB | `native/darwin/x64` |
-| [goreleaser_Linux_arm64.tar.gz](https://github.com/goreleaser/goreleaser/releases/download/v2.20.2/goreleaser_Linux_arm64.tar.gz) | 23.8 MiB | `native/linux/arm64` |
-| [goreleaser_Linux_arm64.tar.gz.sbom.json](https://github.com/goreleaser/goreleaser/releases/download/v2.20.2/goreleaser_Linux_arm64.tar.gz.sbom.json) | 528.2 KiB | `native/linux/arm64` |
-| [goreleaser_Linux_armv7.tar.gz](https://github.com/goreleaser/goreleaser/releases/download/v2.20.2/goreleaser_Linux_armv7.tar.gz) | 24.7 MiB | `native/linux/arm` |
-| [goreleaser_Linux_armv7.tar.gz.sbom.json](https://github.com/goreleaser/goreleaser/releases/download/v2.20.2/goreleaser_Linux_armv7.tar.gz.sbom.json) | 528.2 KiB | `native/linux/arm` |
-| [goreleaser_Linux_i386.tar.gz](https://github.com/goreleaser/goreleaser/releases/download/v2.20.2/goreleaser_Linux_i386.tar.gz) | 24.6 MiB | `native/linux/x86` |
-| [goreleaser_Linux_i386.tar.gz.sbom.json](https://github.com/goreleaser/goreleaser/releases/download/v2.20.2/goreleaser_Linux_i386.tar.gz.sbom.json) | 527.9 KiB | `native/linux/x86` |
-| [goreleaser_Linux_loong64.tar.gz](https://github.com/goreleaser/goreleaser/releases/download/v2.20.2/goreleaser_Linux_loong64.tar.gz) | 25.0 MiB | `native/unknown` |
-| [goreleaser_Linux_loong64.tar.gz.sbom.json](https://github.com/goreleaser/goreleaser/releases/download/v2.20.2/goreleaser_Linux_loong64.tar.gz.sbom.json) | 528.8 KiB | `other` |
-| [goreleaser_Linux_ppc64.tar.gz](https://github.com/goreleaser/goreleaser/releases/download/v2.20.2/goreleaser_Linux_ppc64.tar.gz) | 23.6 MiB | `native/unknown` |
-| [goreleaser_Linux_ppc64.tar.gz.sbom.json](https://github.com/goreleaser/goreleaser/releases/download/v2.20.2/goreleaser_Linux_ppc64.tar.gz.sbom.json) | 528.2 KiB | `other` |
-| [goreleaser_Linux_riscv64.tar.gz](https://github.com/goreleaser/goreleaser/releases/download/v2.20.2/goreleaser_Linux_riscv64.tar.gz) | 25.4 MiB | `native/linux/riscv64` |
-| [goreleaser_Linux_riscv64.tar.gz.sbom.json](https://github.com/goreleaser/goreleaser/releases/download/v2.20.2/goreleaser_Linux_riscv64.tar.gz.sbom.json) | 528.8 KiB | `native/linux/riscv64` |
-| [goreleaser_Linux_x86_64.tar.gz](https://github.com/goreleaser/goreleaser/releases/download/v2.20.2/goreleaser_Linux_x86_64.tar.gz) | 26.5 MiB | `native/linux/x64` |
-| [goreleaser_Linux_x86_64.tar.gz.sbom.json](https://github.com/goreleaser/goreleaser/releases/download/v2.20.2/goreleaser_Linux_x86_64.tar.gz.sbom.json) | 528.5 KiB | `native/linux/x64` |
-| [goreleaser_Windows_arm64.zip](https://github.com/goreleaser/goreleaser/releases/download/v2.20.2/goreleaser_Windows_arm64.zip) | 24.0 MiB | `native/win/arm64` |
-| [goreleaser_Windows_arm64.zip.sbom.json](https://github.com/goreleaser/goreleaser/releases/download/v2.20.2/goreleaser_Windows_arm64.zip.sbom.json) | 536.2 KiB | `native/win/arm64` |
-| [goreleaser_Windows_i386.zip](https://github.com/goreleaser/goreleaser/releases/download/v2.20.2/goreleaser_Windows_i386.zip) | 25.9 MiB | `native/win/x64` |
-| [goreleaser_Windows_i386.zip.sbom.json](https://github.com/goreleaser/goreleaser/releases/download/v2.20.2/goreleaser_Windows_i386.zip.sbom.json) | 535.9 KiB | `native/win/x64` |
-| [goreleaser_Windows_x86_64.zip](https://github.com/goreleaser/goreleaser/releases/download/v2.20.2/goreleaser_Windows_x86_64.zip) | 27.2 MiB | `native/win/x64` |
-| [goreleaser_Windows_x86_64.zip.sbom.json](https://github.com/goreleaser/goreleaser/releases/download/v2.20.2/goreleaser_Windows_x86_64.zip.sbom.json) | 536.6 KiB | `native/win/x64` |
+| [checksums.txt](https://github.com/goreleaser/goreleaser/releases/download/v2.20.3/checksums.txt) | 5.1 KiB | `other` |
+| [checksums.txt.sigstore.json](https://github.com/goreleaser/goreleaser/releases/download/v2.20.3/checksums.txt.sigstore.json) | 10.1 KiB | `other` |
+| [goreleaser-2.20.3-1-aarch64.pkg.tar.zst](https://github.com/goreleaser/goreleaser/releases/download/v2.20.3/goreleaser-2.20.3-1-aarch64.pkg.tar.zst) | 23.1 MiB | `other` |
+| [goreleaser-2.20.3-1-armv7h.pkg.tar.zst](https://github.com/goreleaser/goreleaser/releases/download/v2.20.3/goreleaser-2.20.3-1-armv7h.pkg.tar.zst) | 23.6 MiB | `other` |
+| [goreleaser-2.20.3-1-i686.pkg.tar.zst](https://github.com/goreleaser/goreleaser/releases/download/v2.20.3/goreleaser-2.20.3-1-i686.pkg.tar.zst) | 23.7 MiB | `other` |
+| [goreleaser-2.20.3-1-x86_64.pkg.tar.zst](https://github.com/goreleaser/goreleaser/releases/download/v2.20.3/goreleaser-2.20.3-1-x86_64.pkg.tar.zst) | 25.7 MiB | `other` |
+| [goreleaser-2.20.3-1.aarch64.rpm](https://github.com/goreleaser/goreleaser/releases/download/v2.20.3/goreleaser-2.20.3-1.aarch64.rpm) | 24.7 MiB | `runtime/rpm/aarch64` |
+| [goreleaser-2.20.3-1.armv7hl.rpm](https://github.com/goreleaser/goreleaser/releases/download/v2.20.3/goreleaser-2.20.3-1.armv7hl.rpm) | 25.5 MiB | `runtime/rpm/armv7hl` |
+| [goreleaser-2.20.3-1.i386.rpm](https://github.com/goreleaser/goreleaser/releases/download/v2.20.3/goreleaser-2.20.3-1.i386.rpm) | 25.5 MiB | `other` |
+| [goreleaser-2.20.3-1.loongarch64.rpm](https://github.com/goreleaser/goreleaser/releases/download/v2.20.3/goreleaser-2.20.3-1.loongarch64.rpm) | 26.0 MiB | `other` |
+| [goreleaser-2.20.3-1.ppc64.rpm](https://github.com/goreleaser/goreleaser/releases/download/v2.20.3/goreleaser-2.20.3-1.ppc64.rpm) | 24.8 MiB | `other` |
+| [goreleaser-2.20.3-1.riscv64.rpm](https://github.com/goreleaser/goreleaser/releases/download/v2.20.3/goreleaser-2.20.3-1.riscv64.rpm) | 26.2 MiB | `other` |
+| [goreleaser-2.20.3-1.x86_64.rpm](https://github.com/goreleaser/goreleaser/releases/download/v2.20.3/goreleaser-2.20.3-1.x86_64.rpm) | 27.5 MiB | `runtime/rpm/x86_64` |
+| [goreleaser_2.20.3_aarch64.apk](https://github.com/goreleaser/goreleaser/releases/download/v2.20.3/goreleaser_2.20.3_aarch64.apk) | 25.0 MiB | `other` |
+| [goreleaser_2.20.3_amd64.deb](https://github.com/goreleaser/goreleaser/releases/download/v2.20.3/goreleaser_2.20.3_amd64.deb) | 26.7 MiB | `runtime/deb/amd64` |
+| [goreleaser_2.20.3_arm64.deb](https://github.com/goreleaser/goreleaser/releases/download/v2.20.3/goreleaser_2.20.3_arm64.deb) | 24.0 MiB | `runtime/deb/arm64` |
+| [goreleaser_2.20.3_armhf.deb](https://github.com/goreleaser/goreleaser/releases/download/v2.20.3/goreleaser_2.20.3_armhf.deb) | 24.9 MiB | `runtime/deb/armhf` |
+| [goreleaser_2.20.3_armv7.apk](https://github.com/goreleaser/goreleaser/releases/download/v2.20.3/goreleaser_2.20.3_armv7.apk) | 25.9 MiB | `other` |
+| [goreleaser_2.20.3_i386.deb](https://github.com/goreleaser/goreleaser/releases/download/v2.20.3/goreleaser_2.20.3_i386.deb) | 24.8 MiB | `runtime/deb/i386` |
+| [goreleaser_2.20.3_linux_amd64.flatpak](https://github.com/goreleaser/goreleaser/releases/download/v2.20.3/goreleaser_2.20.3_linux_amd64.flatpak) | 18.3 MiB | `native/linux/x64` |
+| [goreleaser_2.20.3_linux_arm64.flatpak](https://github.com/goreleaser/goreleaser/releases/download/v2.20.3/goreleaser_2.20.3_linux_arm64.flatpak) | 15.5 MiB | `native/linux/arm64` |
+| [goreleaser_2.20.3_loong64.deb](https://github.com/goreleaser/goreleaser/releases/download/v2.20.3/goreleaser_2.20.3_loong64.deb) | 25.3 MiB | `other` |
+| [goreleaser_2.20.3_loongarch64.apk](https://github.com/goreleaser/goreleaser/releases/download/v2.20.3/goreleaser_2.20.3_loongarch64.apk) | 26.3 MiB | `other` |
+| [goreleaser_2.20.3_ppc64.apk](https://github.com/goreleaser/goreleaser/releases/download/v2.20.3/goreleaser_2.20.3_ppc64.apk) | 25.2 MiB | `other` |
+| [goreleaser_2.20.3_ppc64.deb](https://github.com/goreleaser/goreleaser/releases/download/v2.20.3/goreleaser_2.20.3_ppc64.deb) | 23.8 MiB | `other` |
+| [goreleaser_2.20.3_riscv64.apk](https://github.com/goreleaser/goreleaser/releases/download/v2.20.3/goreleaser_2.20.3_riscv64.apk) | 26.5 MiB | `other` |
+| [goreleaser_2.20.3_riscv64.deb](https://github.com/goreleaser/goreleaser/releases/download/v2.20.3/goreleaser_2.20.3_riscv64.deb) | 25.5 MiB | `runtime/deb/riscv64` |
+| [goreleaser_2.20.3_x86.apk](https://github.com/goreleaser/goreleaser/releases/download/v2.20.3/goreleaser_2.20.3_x86.apk) | 25.8 MiB | `other` |
+| [goreleaser_2.20.3_x86_64.apk](https://github.com/goreleaser/goreleaser/releases/download/v2.20.3/goreleaser_2.20.3_x86_64.apk) | 27.9 MiB | `other` |
+| [goreleaser_Darwin_all.tar.gz](https://github.com/goreleaser/goreleaser/releases/download/v2.20.3/goreleaser_Darwin_all.tar.gz) | 53.5 MiB | `native/darwin/x64` |
+| [goreleaser_Darwin_all.tar.gz.sbom.json](https://github.com/goreleaser/goreleaser/releases/download/v2.20.3/goreleaser_Darwin_all.tar.gz.sbom.json) | 961.9 KiB | `native/darwin/x64` |
+| [goreleaser_Darwin_arm64.tar.gz](https://github.com/goreleaser/goreleaser/releases/download/v2.20.3/goreleaser_Darwin_arm64.tar.gz) | 25.4 MiB | `native/darwin/arm64` |
+| [goreleaser_Darwin_arm64.tar.gz.sbom.json](https://github.com/goreleaser/goreleaser/releases/download/v2.20.3/goreleaser_Darwin_arm64.tar.gz.sbom.json) | 523.7 KiB | `native/darwin/arm64` |
+| [goreleaser_Darwin_x86_64.tar.gz](https://github.com/goreleaser/goreleaser/releases/download/v2.20.3/goreleaser_Darwin_x86_64.tar.gz) | 28.1 MiB | `native/darwin/x64` |
+| [goreleaser_Darwin_x86_64.tar.gz.sbom.json](https://github.com/goreleaser/goreleaser/releases/download/v2.20.3/goreleaser_Darwin_x86_64.tar.gz.sbom.json) | 524.0 KiB | `native/darwin/x64` |
+| [goreleaser_Linux_arm64.tar.gz](https://github.com/goreleaser/goreleaser/releases/download/v2.20.3/goreleaser_Linux_arm64.tar.gz) | 24.0 MiB | `native/linux/arm64` |
+| [goreleaser_Linux_arm64.tar.gz.sbom.json](https://github.com/goreleaser/goreleaser/releases/download/v2.20.3/goreleaser_Linux_arm64.tar.gz.sbom.json) | 523.3 KiB | `native/linux/arm64` |
+| [goreleaser_Linux_armv7.tar.gz](https://github.com/goreleaser/goreleaser/releases/download/v2.20.3/goreleaser_Linux_armv7.tar.gz) | 24.9 MiB | `native/linux/arm` |
+| [goreleaser_Linux_armv7.tar.gz.sbom.json](https://github.com/goreleaser/goreleaser/releases/download/v2.20.3/goreleaser_Linux_armv7.tar.gz.sbom.json) | 523.3 KiB | `native/linux/arm` |
+| [goreleaser_Linux_i386.tar.gz](https://github.com/goreleaser/goreleaser/releases/download/v2.20.3/goreleaser_Linux_i386.tar.gz) | 24.8 MiB | `native/linux/x86` |
+| [goreleaser_Linux_i386.tar.gz.sbom.json](https://github.com/goreleaser/goreleaser/releases/download/v2.20.3/goreleaser_Linux_i386.tar.gz.sbom.json) | 523.0 KiB | `native/linux/x86` |
+| [goreleaser_Linux_loong64.tar.gz](https://github.com/goreleaser/goreleaser/releases/download/v2.20.3/goreleaser_Linux_loong64.tar.gz) | 25.3 MiB | `native/unknown` |
+| [goreleaser_Linux_loong64.tar.gz.sbom.json](https://github.com/goreleaser/goreleaser/releases/download/v2.20.3/goreleaser_Linux_loong64.tar.gz.sbom.json) | 524.0 KiB | `other` |
+| [goreleaser_Linux_ppc64.tar.gz](https://github.com/goreleaser/goreleaser/releases/download/v2.20.3/goreleaser_Linux_ppc64.tar.gz) | 23.8 MiB | `native/unknown` |
+| [goreleaser_Linux_ppc64.tar.gz.sbom.json](https://github.com/goreleaser/goreleaser/releases/download/v2.20.3/goreleaser_Linux_ppc64.tar.gz.sbom.json) | 523.3 KiB | `other` |
+| [goreleaser_Linux_riscv64.tar.gz](https://github.com/goreleaser/goreleaser/releases/download/v2.20.3/goreleaser_Linux_riscv64.tar.gz) | 25.5 MiB | `native/linux/riscv64` |
+| [goreleaser_Linux_riscv64.tar.gz.sbom.json](https://github.com/goreleaser/goreleaser/releases/download/v2.20.3/goreleaser_Linux_riscv64.tar.gz.sbom.json) | 524.0 KiB | `native/linux/riscv64` |
+| [goreleaser_Linux_x86_64.tar.gz](https://github.com/goreleaser/goreleaser/releases/download/v2.20.3/goreleaser_Linux_x86_64.tar.gz) | 26.7 MiB | `native/linux/x64` |
+| [goreleaser_Linux_x86_64.tar.gz.sbom.json](https://github.com/goreleaser/goreleaser/releases/download/v2.20.3/goreleaser_Linux_x86_64.tar.gz.sbom.json) | 523.7 KiB | `native/linux/x64` |
+| [goreleaser_Windows_arm64.zip](https://github.com/goreleaser/goreleaser/releases/download/v2.20.3/goreleaser_Windows_arm64.zip) | 24.2 MiB | `native/win/arm64` |
+| [goreleaser_Windows_arm64.zip.sbom.json](https://github.com/goreleaser/goreleaser/releases/download/v2.20.3/goreleaser_Windows_arm64.zip.sbom.json) | 531.4 KiB | `native/win/arm64` |
+| [goreleaser_Windows_i386.zip](https://github.com/goreleaser/goreleaser/releases/download/v2.20.3/goreleaser_Windows_i386.zip) | 26.1 MiB | `native/win/x64` |
+| [goreleaser_Windows_i386.zip.sbom.json](https://github.com/goreleaser/goreleaser/releases/download/v2.20.3/goreleaser_Windows_i386.zip.sbom.json) | 531.0 KiB | `native/win/x64` |
+| [goreleaser_Windows_x86_64.zip](https://github.com/goreleaser/goreleaser/releases/download/v2.20.3/goreleaser_Windows_x86_64.zip) | 27.4 MiB | `native/win/x64` |
+| [goreleaser_Windows_x86_64.zip.sbom.json](https://github.com/goreleaser/goreleaser/releases/download/v2.20.3/goreleaser_Windows_x86_64.zip.sbom.json) | 531.7 KiB | `native/win/x64` |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/goreleaser) 上共有 **76** 个发行版报告此项目。**8** 个 ✅ 已是最新上游版本，**18** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/goreleaser) 上共有 **76** 个发行版报告此项目。**1** 个 ✅ 已是最新上游版本，**25** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
 | Arch | `2.14.0` | ⚠️ outdated |
-| Homebrew | `2.20.2` | ✅ latest |
+| Homebrew | `2.20.2` | ⚠️ outdated |
 | Nix unstable | `2.20.1` | ⚠️ outdated |
 | Void | `2.18.2` | ⚠️ outdated |
 | openSUSE Tumbleweed | `2.20.0` | ⚠️ outdated |
@@ -144,4 +144,4 @@ goreleaser 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261119.yml` · 2026-11-19T09:34:01Z._
+_数据快照: `data/card/261120.yml` · 2026-11-20T09:19:06Z._
