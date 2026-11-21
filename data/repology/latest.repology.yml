@@ -86,9 +86,9 @@
 - repo: homebrew
   srcname: goreleaser
   visiblename: goreleaser
-  version: 2.20.2
+  version: 2.20.3
   origversion: null
-  status: outdated
+  status: newest
   summary: Deliver Go binaries as fast and easily as possible
 - repo: homebrew
   srcname: goreleaser
@@ -144,15 +144,6 @@
   summary: Deliver Go binaries as fast and easily as possible
   licenses:
     - MIT
-- repo: wakemeops
-  subrepo: devops
-  binname: goreleaser
-  visiblename: goreleaser
-  version: 2.15.4
-  origversion: 2.15.4-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
 - repo: nix_stable_24_05
   srcname: goreleaser
   visiblename: goreleaser
@@ -278,18 +269,18 @@
   subrepo: main
   binname: goreleaser
   visiblename: goreleaser
-  version: 2.20.2
+  version: 2.20.3
   origversion: null
-  status: outdated
+  status: newest
   licenses:
     - MIT
 - repo: termux
   srcname: goreleaser
   binname: goreleaser
   visiblename: goreleaser
-  version: 2.20.2
+  version: 2.20.3
   origversion: null
-  status: outdated
+  status: newest
   summary: Deliver Go binaries as fast and easily as possible
   maintainers:
     - gouranga.das.khulna@gmail.com
@@ -409,6 +400,15 @@
   subrepo: devops
   binname: goreleaser
   visiblename: goreleaser
+  version: 2.15.4
+  origversion: 2.15.4-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: goreleaser
+  visiblename: goreleaser
   version: 2.14.3
   origversion: 2.14.3-1~ops2deb
   status: legacy
@@ -486,6 +486,15 @@
   status: legacy
   maintainers:
     - ops2deb@upciti.com
+- repo: wikidata
+  srcname: Q136341978
+  visiblename: GoReleaser
+  version: 2.20.3
+  origversion: null
+  status: newest
+  summary: CLI tool for release engineering
+  licenses:
+    - MIT License
 - repo: wakemeops
   subrepo: devops
   binname: goreleaser
@@ -747,12 +756,3 @@
   status: legacy
   maintainers:
     - ops2deb@upciti.com
-- repo: wikidata
-  srcname: Q136341978
-  visiblename: GoReleaser
-  version: 2.20.2
-  origversion: null
-  status: outdated
-  summary: CLI tool for release engineering
-  licenses:
-    - MIT License
