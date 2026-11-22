@@ -1,3 +1,33 @@
+- repo: openbsd
+  srcname: devel/goreleaser
+  binname: goreleaser
+  visiblename: devel/goreleaser
+  version: 2.20.0
+  origversion: null
+  status: outdated
+  summary: deliver Go binaries as fast and easily as possible
+  maintainers:
+    - foxy@free.fr
+  categories:
+    - devel
+- repo: wakemeops
+  subrepo: devops
+  binname: goreleaser
+  visiblename: goreleaser
+  version: 2.19.0
+  origversion: 2.19.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wikidata
+  srcname: Q136341978
+  visiblename: GoReleaser
+  version: 2.20.3
+  origversion: null
+  status: newest
+  summary: CLI tool for release engineering
+  licenses:
+    - MIT License
 - repo: alt_p11
   srcname: goreleaser
   binnames:
@@ -226,18 +256,6 @@
     - dymkod@gmail.com
   licenses:
     - MIT
-- repo: openbsd
-  srcname: devel/goreleaser
-  binname: goreleaser
-  visiblename: devel/goreleaser
-  version: 2.20.0
-  origversion: null
-  status: outdated
-  summary: deliver Go binaries as fast and easily as possible
-  maintainers:
-    - foxy@free.fr
-  categories:
-    - devel
 - repo: opensuse_tumbleweed
   subrepo: src-oss
   srcname: goreleaser
@@ -321,15 +339,6 @@
   visiblename: goreleaser
   version: 2.20.0
   origversion: 2.20.0-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: goreleaser
-  visiblename: goreleaser
-  version: 2.19.0
-  origversion: 2.19.0-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
@@ -486,15 +495,6 @@
   status: legacy
   maintainers:
     - ops2deb@upciti.com
-- repo: wikidata
-  srcname: Q136341978
-  visiblename: GoReleaser
-  version: 2.20.3
-  origversion: null
-  status: newest
-  summary: CLI tool for release engineering
-  licenses:
-    - MIT License
 - repo: wakemeops
   subrepo: devops
   binname: goreleaser
