@@ -14,19 +14,19 @@ x install goreleaser
 
 ## 代码洞察
 
-合计: **112,387** 行代码（覆盖前 5 种语言、共 **478** 个文件）。
+合计: **112,601** 行代码（覆盖前 5 种语言、共 **478** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 93,625 | 2,885 | 10,150 | 413 |
-| Json | 15,431 | 0 | 1 | 14 |
+| Go | 93,832 | 2,890 | 10,165 | 413 |
+| Json | 15,438 | 0 | 1 | 14 |
 | Yaml | 1,117 | 82 | 121 | 34 |
 | Html | 690 | 19 | 15 | 13 |
 | Svg | 546 | 0 | 0 | 4 |
 
 ## OpenSSF Scorecard 评分
 
-总评分: **8.7 / 10**
+总评分: **8.8 / 10**
 
 评分最低的几项:
 
@@ -40,28 +40,28 @@ x install goreleaser
 
 ## 发布
 
-- **最新版本**: `v2.21.0-aafac388-nightly` (2026-11-20)
-- **最近提交**: 2026-11-25
+- **最新版本**: `v2.21.0-72df2a65-nightly` (2026-11-20)
+- **最近提交**: 2026-11-27
 - **Release 含资产**: 55 个
 
 ## 流行度
 
-- **Star**: 16,157 · **Fork**: 1,200 · **开放 issue**: 1,862 · **贡献者**: 515
+- **Star**: 16,160 · **Fork**: 1,201 · **开放 issue**: 1,862 · **贡献者**: 519
 
 ## 累计统计
 
-- **发布数**: 608 · **已合并 PR**: 4141 · **开放 PR**: 26 · **已关闭 issue**: 1853 · **开放 issue**: 9 · **提交数**: 8301
+- **发布数**: 608 · **已合并 PR**: 4149 · **开放 PR**: 22 · **已关闭 issue**: 1854 · **开放 issue**: 8 · **提交数**: 8309
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 9 | 66 | 19 | 5 | 4 | 83 |
-| last60d | 2026-09-28 | 11 | 116 | 22 | 12 | 4 | 139 |
-| 90d | 2026-08-29 | 13 | 235 | 24 | 216 | 4 | 240 |
-| last180d | 2026-05-31 | 16 | 372 | 25 | 234 | 4 | 446 |
-| 360d | 2025-12-02 | 30 | 593 | 25 | 283 | 4 | 1016 |
-| last720d | 2024-12-07 | 54 | 1203 | 25 | 358 | 5 | 2144 |
+| 30d | 2026-10-29 | 9 | 73 | 15 | 6 | 3 | 91 |
+| last60d | 2026-09-29 | 11 | 123 | 18 | 13 | 3 | 147 |
+| 90d | 2026-08-30 | 13 | 223 | 20 | 213 | 3 | 248 |
+| last180d | 2026-06-01 | 16 | 379 | 21 | 235 | 3 | 454 |
+| 360d | 2025-12-03 | 30 | 601 | 21 | 284 | 3 | 1024 |
+| last720d | 2024-12-08 | 54 | 1211 | 21 | 359 | 4 | 2149 |
 
 ## Release 资产
 
@@ -123,18 +123,6 @@ x install goreleaser
 | [goreleaser_Windows_x86_64.zip](https://github.com/goreleaser/goreleaser/releases/download/v2.20.3/goreleaser_Windows_x86_64.zip) | 27.4 MiB | `native/win/x64` |
 | [goreleaser_Windows_x86_64.zip.sbom.json](https://github.com/goreleaser/goreleaser/releases/download/v2.20.3/goreleaser_Windows_x86_64.zip.sbom.json) | 531.7 KiB | `native/win/x64` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/goreleaser) 上共有 **76** 个发行版报告此项目。**7** 个 ✅ 已是最新上游版本，**19** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Arch | `2.14.0` | ⚠️ outdated |
-| Homebrew | `2.20.3` | ✅ latest |
-| Nix unstable | `2.20.1` | ⚠️ outdated |
-| Void | `2.18.2` | ⚠️ outdated |
-| openSUSE Tumbleweed | `2.20.0` | ⚠️ outdated |
-
 ## 改进这些数据
 
 goreleaser 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `goreleaser` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -144,4 +132,4 @@ goreleaser 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261127.yml` · 2026-11-27T09:04:00Z._
+_数据快照: `data/card/261128.yml` · 2026-11-28T08:18:21Z._
